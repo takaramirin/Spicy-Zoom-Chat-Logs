@@ -1,0 +1,896 @@
+12:56:34	 From  JESSICA TAN GUANG HUI . : Great!
+12:56:41	 From  JASMIN YAP YI . : doing good :)
+12:56:46	 From  ALOYSIUS CHONG JUN FENG . : good
+12:56:49	 From  CHANG TSIN JER . : surviving
+12:56:53	 From  MOHAMED ASIF S/O K A AMANULLAH . : Hello Prof :)
+12:56:55	 From  LIM JIN TAO BENJAMIN . : rats have been a tragedy 
+12:56:57	 From  SEAH YUAN SHENGH . : got chewed out by ytd's rat
+12:57:42	 From  RYAN CHEW KENG YANG . : 1005 has made me question my own logic
+12:57:57	 From  JESSICA TAN GUANG HUI . : How do I know which qns in rat I got wrong?
+12:58:00	 From  SEAH YUAN SHENGH . : logic is the easier topic wait till we get induction
+12:58:13	 From  LIM JIN TAO BENJAMIN . : rat is from 8-11 anytime isnt it
+12:58:21	 From  SEAH YUAN SHENGH . : not rat
+12:58:23	 From  SEAH YUAN SHENGH . : next week quiz
+12:58:26	 From  LIM JIN TAO BENJAMIN . : wtf we got quiz
+12:58:32	 From  SEAH YUAN SHENGH . : yeah
+12:58:35	 From  LIM JIN TAO BENJAMIN . : doomed
+12:58:36	 From  SEAH YUAN SHENGH . : next week bro
+12:58:50	 From  GOU HANG . : what quiz?
+12:58:57	 From  RYAN CHEW KENG YANG . : Next week is class test right?
+12:58:57	 From  GOU HANG . : rat?
+12:59:00	 From  SEAH YUAN SHENGH . : next week 1005 quiz on logic
+12:59:07	 From  SEAH YUAN SHENGH . : the 1h one
+12:59:11	 From  LIM JIN TAO BENJAMIN . : :(:(:(
+12:59:46	 From  KAMARULLAH BIN MOHAMAD SALIM . : that one which day
+12:59:52	 From  SEAH YUAN SHENGH . : Monday 630
+13:00:03	 From  LIM JIN TAO BENJAMIN . : where did she say the quiz gonna be what time
+13:00:13	 From  SEAH YUAN SHENGH . : module intro got say if im not wrong
+13:00:23	 From  LIM JIN TAO BENJAMIN . : oo thanks
+13:00:24	 From  LIM JIN TAO BENJAMIN . : im shook
+13:00:45	 From  SEAH YUAN SHENGH . : yup w1-w3 topics
+13:01:20	 From  NG ZHENG HAN . : later???
+13:01:25	 From  Jeremy Chow : 28/09
+13:01:27	 From  SEAH YUAN SHENGH . : next monday
+13:01:27	 From  LIM JIN TAO BENJAMIN . : nxt week
+13:01:48	 From  NG ZHENG HAN . : jeez
+13:03:56	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : A different group of students?
+13:04:02	 From  Jub : did not sent to himself
+13:04:07	 From  WONG YONG HAN . : different person
+13:04:16	 From  Angelene Joshna : what is the slido?
+13:04:19	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : 1005
+13:04:22	 From  SEAH YUAN SHENGH . : 1005
+13:05:12	 From  Edwin Nyeow : cant ask question atm right?
+13:05:17	 From  SEAH YUAN SHENGH . : can
+13:05:18	 From  SEAH YUAN SHENGH . : why not
+13:05:22	 From  SEAH YUAN SHENGH . : mic on and ask lorh
+13:05:26	 From  SHAWN LEMUEL EVORA DABI . : not bout quiz
+13:05:30	 From  Edwin Nyeow : no ah the slido page
+13:05:32	 From  LEE KAI XUAN . : ya slido qns r disabled
+13:05:32	 From  SEAH YUAN SHENGH . : ^
+13:05:36	 From  SEAH YUAN SHENGH . : or just ask here lorh
+13:05:37	 From  SEAH YUAN SHENGH . : easier
+13:05:45	 From  KHO WEN JIE . : people shy to disrupt
+13:05:46	 From  KAMARULLAH BIN MOHAMAD SALIM . : x sends an email to all students of y
+13:05:48	 From  Jub : There is a student that sent an email to all student
+13:05:55	 From  Nicholas Ooi : there exists a student who has sent an email to all students
+13:05:56	 From  SEAH YUAN SHENGH . : prof also say alr wot nth to be shy about lol
+13:06:37	 From  Edwin Nyeow : lol i just wanted to check if my slido same ornot XD
+13:07:56	 From  JASMIN YAP YI . : All students have sent an email to a student
+13:08:43	 From  KAMARULLAH BIN MOHAMAD SALIM . : no
+13:08:45	 From  YAO YUJING . : does the student refer to the same student? like 1 million student sent to the specific student?
+13:08:49	 From  ALARIC TANG MING KUN . : No
+13:08:49	 From  YAO YUJING . : :3
+13:08:50	 From  JAS PANG ZE XIN . : no
+13:09:02	 From  SEAH YUAN SHENGH . : it can
+13:09:02	 From  ALARIC TANG MING KUN . : the same
+13:09:04	 From  JESSICA TAN GUANG HUI . : same
+13:09:06	 From  Jub : same
+13:09:17	 From  MOHAMMAD SHAHMIZAN BIN SHAM AFFANDI . : Some y has received an email from all x ?
+13:09:36	 From  KAMARULLAH BIN MOHAMAD SALIM . : some y send an email to all x
+13:09:54	 From  ALARIC TANG MING KUN . : rip
+13:09:56	 From  YAO YUJING . : y is the receiver
+13:09:57	 From  DYLAN MICHAEL OGLE . : ahhh
+13:10:02	 From  SHAWN LEMUEL EVORA DABI . : what if it is ey ax r(y,x)
+13:10:14	 From  LOW WEI YANG . : wait whats the difference between 3rd and 4th one
+13:10:14	 From  SHAWN LEMUEL EVORA DABI . : ey ax E(y,x)
+13:10:16	 From  YAO YUJING . : a student sent a email to all student?
+13:10:17	 From  DYLAN MICHAEL OGLE . : x = sendersy = recievers
+13:10:19	 From  JASMIN YAP YI . : A student has received an email from all the students?
+13:10:23	 From  YAO YUJING . : haha
+13:10:29	 From  DYLAN MICHAEL OGLE . : Popular student
+13:10:32	 From  YAO YUJING . : yup
+13:11:00	 From  KOH HUAN YIN . : has she gone through the ExAyAz question? 
+13:11:04	 From  SEAH YUAN SHENGH . : no
+13:11:44	 From  JESSICA TAN GUANG HUI . : y = 2??
+13:11:44	 From  SUHAIMI BIN ROSLAN . : E2y lol
+13:11:47	 From  YAO YUJING . : LOL
+13:11:49	 From  NG JUN KIAT . : lol
+13:11:50	 From  NG JUN KIAT . : genius
+13:11:51	 From  JASMIN YAP YI . : add a ^y=2
+13:11:53	 From  YAO YUJING . : e2 x2
+13:11:54	 From  YAO YUJING . : wow
+13:11:55	 From  YAO YUJING . : math
+13:11:56	 From  ALOYSIUS YEO WEI JIE . : zzz the bottom 2 looks the same to me
+13:11:57	 From  DYLAN MICHAEL OGLE . : 2EyAxE(x,y)? ehhh?
+13:11:58	 From  SEAH YUAN SHENGH . : big brain plays
+13:11:58	 From  YAO YUJING . : is powerful
+13:12:05	 From  TAN ZHI YU : galaxy brain
+13:12:11	 From  NG JUN KIAT . : e2y hahhaa
+13:12:18	 From  NADZIMUSHSYAHAR BIN MOHD HALEL . : if y>=2?
+13:12:46	 From  SEAH YUAN SHENGH . : i think its similar to the friends qn in the vid
+13:15:50	 From  KOH HUAN YIN . : interpret from the left side first
+13:15:59	 From  TEY SHU JUAN . : what about the second one?
+13:16:04	 From  ALARIC TANG MING KUN . : :)
+13:16:07	 From  LIM JIN TAO BENJAMIN . : questions disabled
+13:16:08	 From  LIM JIN TAO BENJAMIN . : monkaS
+13:16:13	 From  CHUA YING WEI, DEXTER . : Can't ask 
+13:18:06	 From  YAO YUJING . : can it be EXEY AX?
+13:18:07	 From  YAO YUJING . : haha
+13:18:11	 From  YAO YUJING . : he sent to himself
+13:18:13	 From  YAO YUJING . : then become two
+13:19:43	 From  LEE XIAN FU . : received an email ?
+13:19:46	 From  TAN HUI YANG . : 2nd row?
+13:19:46	 From  KAMARULLAH BIN MOHAMAD SALIM . : depends what is the definition
+13:19:48	 From  LOW WEI YANG . : same as 2nd one?
+13:19:50	 From  KHO WEN JIE . : look the same
+13:19:55	 From  SHAWN LEMUEL EVORA DABI . : y received an email from x?
+13:19:57	 From  KHO WEN JIE . : as 2nd
+13:19:59	 From  MUHAMMAD SADIQ BIN ISNIN . : there is a y that send to all x
+13:20:02	 From  SEAH YUAN SHENGH . : it is the same
+13:20:04	 From  JAS PANG ZE XIN . : same as second
+13:20:07	 From  KHO WEN JIE . : a student send an email to all students
+13:20:09	 From  Ivan : unmuted yo
+13:20:11	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : There is a student that send some email to all student
+13:20:17	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : HAHAHAHA
+13:20:17	 From  YAO YUJING . : is it unmuted?
+13:20:18	 From  KOH HUAN YIN . : hahaha
+13:20:20	 From  Gunasekaran Pandiyan : lol
+13:20:21	 From  LEE XIAN FU . : ...
+13:20:21	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : someone is reading to herself
+13:20:23	 From  KHO WEN JIE . : LOL
+13:20:24	 From  Ivan : I think she thinking to herself
+13:20:24	 From  YAO YUJING . : actually she don know
+13:20:25	 From  Ivan : LOL
+13:20:26	 From  SEAH YUAN SHENGH . : XD
+13:20:26	 From  SUHAIMI BIN ROSLAN . : this is brutal
+13:20:27	 From  RYAN CHEW KENG YANG . : Accidentally unmuted lmao
+13:20:27	 From  YAO YUJING . : :3
+13:20:28	 From  MUHAMMAD NAZRI BIN SAPIAH . : someone broke
+13:20:28	 From  Jun Hui Foong : LOL
+13:20:29	 From  YAO YUJING . : haha
+13:20:30	 From  YIP HOU LIANG . : F
+13:20:30	 From  LEE XIAN FU . : oof
+13:20:32	 From  Jun Hui Foong : F
+13:20:33	 From  Cris : XD
+13:20:35	 From  YAO YUJING . : GG
+13:20:36	 From  JASMIN YAP YI . : shhh guys chill
+13:20:37	 From  YAO YUJING . : :D
+13:20:37	 From  SEAH YUAN SHENGH . : we haven't even gotten to induction yet
+13:20:39	 From  Leow Yong Zheng : exposed
+13:20:44	 From  SEAH YUAN SHENGH . : ppl dying alr
+13:20:47	 From  KEVIN POOK YUAN KAI . : hahaahah
+13:21:06	 From  Jub : There are some students that received an email from all students
+13:21:15	 From  Bernard Lee : same as example 2
+13:21:16	 From  Bernard Lee : ?
+13:21:44	 From  Jub : There are some students which all students has sent an email to
+13:21:45	 From  LOW WEI YANG . : so its the same as example 2?
+13:22:01	 From  Leow Yong Zheng : its like program, the parameter order
+13:22:54	 From  BRYAN ONG MING EN . : someone
+13:22:55	 From  CHUA YING WEI, DEXTER . : not muted yet
+13:22:57	 From  BRYAN ONG MING EN . : should let her
+13:22:57	 From  Nicholas Ooi : who not muted
+13:22:57	 From  BRYAN ONG MING EN . : know
+13:23:01	 From  SEAH YUAN SHENGH . : sounds like crying sia
+13:23:04	 From  ALARIC TANG MING KUN . : gg
+13:23:05	 From  LEE XIAN FU . : sed
+13:23:07	 From  ALARIC TANG MING KUN . : im crying too
+13:23:09	 From  NG JUN KIAT . : lesson too stressfu
+13:23:11	 From  NG JUN KIAT . : :(
+13:23:12	 From  CHUA XUE NING JOEY . : SRY
+13:23:12	 From  ADAM LOH ITT HARP . : f
+13:23:13	 From  KOH HUAN YIN . : forced mooted
+13:23:13	 From  SEAH YUAN SHENGH . : i ded inside alr
+13:23:14	 From  IAN PEH SHUN WEI . : war cry
+13:23:20	 From  JONATHAN TAN YU SHEN . : call student helpline
+13:23:20	 From  KAMARULLAH BIN MOHAMAD SALIM . : HAHA
+13:23:31	 From  KAMARULLAH BIN MOHAMAD SALIM . : Samaritans of singapore
+13:23:34	 From  SEAH YUAN SHENGH . : student helpline tell u drop out
+13:23:44	 From  SEAH YUAN SHENGH . : eliminate the very thing that causes u stress
+13:23:47	 From  KOH HUAN YIN . : nah
+13:23:51	 From  ALARIC TANG MING KUN . : where's the drop out form
+13:23:52	 From  JONATHAN TAN YU SHEN . : army ask u sign on ez
+13:23:58	 From  KOH HUAN YIN . : they give you bao bao like in 1002 jn
+13:24:17	 From  SEAH YUAN SHENGH . : yeah sure my food costs 10 bao bao
+13:24:37	 From  KOH HUAN YIN . : and a song from Westlife haha
+13:24:42	 From  SUHAIMI BIN ROSLAN . : fierce
+13:24:42	 From  SEAH YUAN SHENGH . : yeah
+13:24:45	 From  SEAH YUAN SHENGH . : sing them the song
+13:24:48	 From  SEAH YUAN SHENGH . : get free food
+13:28:47	 From  KOH HUAN YIN . : sia la that question
+13:30:08	 From  ALARIC TANG MING KUN . : u erase their existence
+13:30:11	 From  Leow Yong Zheng : operator ! incompatible with type Person
+13:30:12	 From  Leow Yong Zheng : jk
+13:33:44	 From  JESSICA TAN GUANG HUI . : received != send
+13:33:45	 From  LIM JIN TAO BENJAMIN . : by putting (y,x) it changes the predicate to be "y has sent an email to x" ? 
+13:33:54	 From  LOW WEI YANG . : yes
+13:34:06	 From  Donovan Cham : lol 30mins on 1 slide
+13:34:17	 From  LIM JIN TAO BENJAMIN . : havent finish also HAHA
+13:34:19	 From  SEAH YUAN SHENGH . : good don't go to induction XD
+13:34:39	 From  KOH HUAN YIN . : the 5 step induction?
+13:34:49	 From  KOH HUAN YIN . : for proof
+13:34:55	 From  SEAH YUAN SHENGH . : i think
+13:34:58	 From  YIP HOU LIANG . : (╯°□°）╯     ┻━┻
+13:35:20	 From  KOH HUAN YIN . : gosh that one gives me ptsd from my poly days
+13:35:26	 From  SEAH YUAN SHENGH . : ^
+13:35:36	 From  SEAH YUAN SHENGH . : the very reason why i cant exempt 1005
+13:35:36	 From  Donovan Cham : we might go overtime for this lec
+13:35:49	 From  SEAH YUAN SHENGH . : u mean like we do literally all 1005 lects
+13:35:58	 From  RYAN CHEW KENG YANG . : I need cat therapy from 1004
+13:36:05	 From  DYLAN MICHAEL OGLE . : ^
+13:36:08	 From  DYLAN MICHAEL OGLE . : Chipmunk!
+13:36:15	 From  SEAH YUAN SHENGH . : imagine 1004 prof scott say surprise quiz lol
+13:36:23	 From  KOH HUAN YIN . : gg
+13:36:28	 From  KOH HUAN YIN . : with the cat
+13:36:42	 From  SEAH YUAN SHENGH . : the cat meow when he see ppl cheating
+13:44:44	 From  Nicholas Ooi : There exists a active user whose network link will be available?
+13:44:51	 From  Nicholas Ooi : rip
+13:45:32	 From  LIM JIN TAO BENJAMIN . : if it's all users instead of exists for the 2nd statement is it the same as first statement? 
+13:47:08	 From  SEAH YUAN SHENGH . : i think that would mean that if all users is active then its available
+13:47:40	 From  IAN PEH SHUN WEI . : E = there is at least 1 
+13:47:54	 From  IAN PEH SHUN WEI . : A = all must be there to fufill the requirment
+13:47:57	 From  YAO YUJING . : why is there two E inside
+13:48:08	 From  YAO YUJING . : i mean E (....-->E..)
+13:48:19	 From  YAO YUJING . : i tot should be E (...-->...)
+13:48:24	 From  SEAH YUAN SHENGH . : why not
+13:48:29	 From  YAO YUJING . : hmmn
+13:48:46	 From  IAN PEH SHUN WEI . : there could be 4 out of 5 not active I think
+13:49:05	 From  Nicholas Ooi : E(.. --> E..) Would say that there is something that exists, for an element which would imply that there is something that exists for another element
+13:49:07	 From  Nicholas Ooi : in a sense?
+13:50:02	 From  Bernard Lee : id no?
+13:50:19	 From  LIM JIN TAO BENJAMIN . : 69716373
+13:50:35	 From  HOOI YONG HUA . : ty
+13:50:35	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : thank u
+13:50:40	 From  Bernard Lee : tq
+13:50:44	 From  ALARIC TANG MING KUN . : whjat number?
+13:50:46	 From  SEAH YUAN SHENGH . : 69716373
+13:51:11	 From  ALARIC TANG MING KUN . : Arigathanks
+13:51:51	 From  KOH HUAN YIN . : my catalytics lagging
+13:52:05	 From  Jub : same
+13:52:07	 From  TAN XU MEI CLAUDIA . : I don't see anything to input the numbers
+13:52:25	 From  LEE KAI XUAN . : is there a typo for the last question?
+13:53:01	 From  LIM JIN TAO BENJAMIN . : https://learningcatalytics.com/class_sessions/69716373
+13:55:44	 From  KOH HUAN YIN . : I think I should bookmark learning catalytics haha
+13:56:16	 From  YAO YUJING . : 2 minute to load. 30 second to finish 4 question 
+13:56:18	 From  YAO YUJING . : :D
+13:56:23	 From  SEAH YUAN SHENGH . : XD
+13:56:34	 From  JasonYeo : Did anyone got redirect back to q1 after finishing?
+13:56:39	 From  YAO YUJING . : nope
+13:56:59	 From  JasonYeo : Can. thanks.
+13:59:05	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : 65412120
+13:59:12	 From  LEE XIAN FU . : 64512120
+13:59:15	 From  TAN XU MEI CLAUDIA . : tq
+13:59:34	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : 64512120
+14:00:16	 From  SEAH YUAN SHENGH . : "Without loss of generality"
+14:01:26	 From  YAO YUJING . : alo
+14:02:53	 From  KOH HUAN YIN . : wlog
+14:03:51	 From  YAO YUJING . : all failed :)
+14:03:55	 From  SEAH YUAN SHENGH . : shhh
+14:03:56	 From  YAO YUJING . : gg
+14:03:58	 From  YAO YUJING . : haha
+14:03:58	 From  SEAH YUAN SHENGH . : don't jinx leh
+14:03:58	 From  NG JUN KIAT . : gone
+14:04:01	 From  SEAH YUAN SHENGH . : i scared liao
+14:04:02	 From  ALARIC TANG MING KUN . : HAHHA
+14:04:19	 From  YAO YUJING . : all failed to get lower than 100 mark
+14:04:31	 From  DYLAN MICHAEL OGLE . : *panicc*
+14:04:55	 From  KOH HUAN YIN . : dat 2%
+14:05:00	 From  YAO YUJING . : :D
+14:05:17	 From  SEAH YUAN SHENGH . : 4 people lol
+14:05:20	 From  SEAH YUAN SHENGH . : 4-ish
+14:05:21	 From  LOW WEI YANG . : 2nd column is equivalent to 3rd column
+14:05:27	 From  LOW WEI YANG . : so just follow 2nd column
+14:05:31	 From  KOH HUAN YIN . : yea
+14:05:47	 From  DYLAN MICHAEL OGLE . : Ahhh demorgan
+14:06:05	 From  SEAH YUAN SHENGH . : go back in time and make yourself demorgan ;)
+14:06:26	 From  Nicholas Ooi : Tenet
+14:06:36	 From  KOH HUAN YIN . : tenet backwards is tenet
+14:06:40	 From  KOH HUAN YIN . : mind blown
+14:06:41	 From  SEAH YUAN SHENGH . : propose all his laws and get rich fast
+14:06:47	 From  Zhang Zeyu : …
+14:07:14	 From  LOW WEI YANG . : haha
+14:07:15	 From  Donovan Cham : lol y ppl dun wan choose 1
+14:07:20	 From  Donovan Cham : 1 alr give u true
+14:07:40	 From  SEAH YUAN SHENGH . : the OG nvr listen ang
+14:07:42	 From  SEAH YUAN SHENGH . : gang*
+14:07:50	 From  DYLAN MICHAEL OGLE . : "There is a student with a red shirt"
+14:07:53	 From  DYLAN MICHAEL OGLE . : *looks at row 1*
+14:07:56	 From  DYLAN MICHAEL OGLE . : *Press x to Doubt*
+14:08:10	 From  SEAH YUAN SHENGH . : press f to pay respects
+14:08:14	 From  Donovan Cham : f
+14:08:15	 From  SEAH YUAN SHENGH . : when results come out lol
+14:08:30	 From  LOW WEI YANG . : the negation of true is false
+14:08:36	 From  SEAH YUAN SHENGH . : oh wao
+14:08:40	 From  SEAH YUAN SHENGH . : what brilliant insight
+14:08:41	 From  LOW WEI YANG . : so u should just negate the first column
+14:08:46	 From  KHO WEN JIE . : is it ok to read that as "Not even one"
+14:08:50	 From  SEAH YUAN SHENGH . : yes
+14:08:53	 From  HUN YEW KWANG, BRIAN . : yes
+14:09:10	 From  KHO WEN JIE . : i doubt myself when i try to use English word with this module
+14:09:45	 From  KOH HUAN YIN . : everyday we stray away from engrish
+14:09:59	 From  Nicholas Ooi : imagine clicking on row 1
+14:10:00	 From  YAO YUJING . : hohoo
+14:10:07	 From  SEAH YUAN SHENGH . : 1005 the math module that makes u ask yourself if youre learning math or english
+14:10:13	 From  GOU HANG . : it did not refresh auto sa
+14:10:13	 From  DYLAN MICHAEL OGLE . : Neither
+14:10:16	 From  DYLAN MICHAEL OGLE . : This is Philosophy
+14:10:18	 From  Donovan Cham : its hard to be a teacher
+14:10:24	 From  SEAH YUAN SHENGH . : written in english
+14:10:25	 From  Donovan Cham : you can never get all your students to listen
+14:10:32	 From  DYLAN MICHAEL OGLE . : True
+14:10:35	 From  Donovan Cham : understand*
+14:11:05	 From  HUN YEW KWANG, BRIAN . : yea because not everyone is the same
+14:11:39	 From  KHO WEN JIE . : Temporary Happiness XD
+14:11:48	 From  DYLAN MICHAEL OGLE . : Oh look, a question from all of us
+14:12:02	 From  ADAM LOH ITT HARP . : temporary happiness
+14:12:03	 From  SEAH YUAN SHENGH . : he's speaking the language of the gods
+14:12:38	 From  DYLAN MICHAEL OGLE . : Happiness is temporary.Discrete Maths is eternal
+14:12:50	 From  SEAH YUAN SHENGH . : hi someone called?
+14:13:32	 From  KOH HUAN YIN . : ah that question
+14:14:42	 From  KHO WEN JIE . : There is a student friends with Y and also with Z but they do not know each other therefore they are not friends
+14:15:02	 From  SEAH YUAN SHENGH . : where my for all's
+14:15:10	 From  KOH HUAN YIN . : knock it down
+14:15:11	 From  KHO WEN JIE . : ehh fk
+14:15:37	 From  KOH HUAN YIN . : you see the for all and the != like contradict 
+14:16:04	 From  KOH HUAN YIN . : != like implies it should be existential quantifier
+14:16:23	 From  KHO WEN JIE . : wait what statement so short?
+14:16:27	 From  SEAH YUAN SHENGH . : lels
+14:16:31	 From  KOH HUAN YIN . : lel wot
+14:17:03	 From  JASMIN YAP YI . : what was the statement?
+14:17:05	 From  CHUA YING WEI, DEXTER . : Can someone type that out?
+14:17:18	 From  NG JUN KIAT . : there is a student x where his (2)friends are not friends with each other
+14:17:32	 From  KHO WEN JIE . : There is a student X whos friends are not friends with each other..... that's all
+14:17:39	 From  KHO WEN JIE . : no all O_O
+14:17:47	 From  SEAH YUAN SHENGH . : :O
+14:17:50	 From  JASMIN YAP YI . : There is a student whose friends are not friends with each other.
+14:17:50	 From  NG JUN KIAT . : ''any 2 friends''
+14:17:50	 From  IAN PEH SHUN WEI . : what if E E E instead of E A A uh ?
+14:18:03	 From  SEAH YUAN SHENGH . : she keep commenting on ppl statement saying got no for all or wot lol
+14:18:07	 From  LIM JIN TAO BENJAMIN . : Needs "if" 
+14:18:28	 From  KOH HUAN YIN . : hahaha
+14:18:31	 From  LIM JIN TAO BENJAMIN . : die
+14:19:28	 From  ALOYSIUS CHONG JUN FENG . : is that yua mikami?
+14:19:41	 From  KOH HUAN YIN . : ah a man of culture
+14:19:43	 From  ADAM LOH ITT HARP . : baobao
+14:20:09	 From  KHO WEN JIE . : LOL
+14:20:22	 From  Leow Yong Zheng : han baobao
+14:20:23	 From  SEAH YUAN SHENGH . : wah so fast got sauce alr leh
+14:20:44	 From  ESCABAS JAMES BALDOS . : what's your favourite 6 digit number?
+14:21:08	 From  Ivan : aint this chat recorded
+14:21:08	 From  LIM JIN TAO BENJAMIN . : not gonna trap myself sorry
+14:21:21	 From  SEAH YUAN SHENGH . : doesn't seem like it
+14:21:49	 From  Bee : 666666😉
+14:21:53	 From  KOH HUAN YIN . : someone wants a nuke code
+14:22:16	 From  SEAH YUAN SHENGH . : when u tryna summon demons but accidentally launched a nuke
+14:22:36	 From  KHO WEN JIE . : Wacom tablet O_O
+14:22:45	 From  KOH HUAN YIN . : prof plays osu!
+14:23:03	 From  TAN HUI YANG . : remove implication?
+14:23:06	 From  NIKOS WEE YI ZHONG . : modus ponen
+14:23:19	 From  SEAH YUAN SHENGH . : simplification first
+14:25:50	 From  KOH HUAN YIN . : first be a simp
+14:25:59	 From  SEAH YUAN SHENGH . : and simp again
+14:26:04	 From  KOH HUAN YIN . : then you can ponens
+14:26:10	 From  LIM JIN TAO BENJAMIN . : no simp september pepehands
+14:26:11	 From  LIM YUE HENG . : squirrels in my pants
+14:28:34	 From  DYLAN MICHAEL OGLE . : ^Don't want any of that
+14:30:39	 From  YAO YUJING . : so arbitrary is like : if 1 of the student got 5.0 gpa = all student got 5.0 gpa?
+14:30:42	 From  KOH HUAN YIN . : what did I just see...
+14:30:56	 From  KOH HUAN YIN . : arbitrary meaning is random
+14:30:56	 From  ALARIC TANG MING KUN . : Yea
+14:31:00	 From  YAO YUJING . : nice
+14:31:06	 From  YAO YUJING . : alaric get your 5.0
+14:31:07	 From  ALARIC TANG MING KUN . : I want 5.0
+14:31:08	 From  YAO YUJING . : so i will have 5.0
+14:31:11	 From  ALARIC TANG MING KUN . : HAHAH
+14:31:24	 From  ALARIC TANG MING KUN . : Do ur rat 
+14:31:28	 From  YAO YUJING . : damnn
+14:31:28	 From  KOH HUAN YIN . : i want $5 
+14:31:28	 From  YAO YUJING . : gg
+14:40:11	 From  ALARIC TANG MING KUN . : Actual maths 
+14:40:25	 From  SEAH YUAN SHENGH . : ah my favourite type of math
+14:41:00	 From  Jub : I miss o levels
+14:41:06	 From  SEAH YUAN SHENGH . : ^
+14:41:11	 From  SEAH YUAN SHENGH . : when math actually made sense
+14:41:17	 From  DYLAN MICHAEL OGLE . : algebra is now like the uncle that finally came back from the store years ago
+14:41:29	 From  KOH HUAN YIN . : now math is like meth
+14:41:34	 From  SEAH YUAN SHENGH . : i think u mean came out of your closet ;)
+14:42:31	 From  DYLAN MICHAEL OGLE . : I want to make a closet joke, but this is recorded
+14:42:35	 From  Jub : so for this, we don't need to put any reasonings?
+14:42:50	 From  SEAH YUAN SHENGH . : well then u gotta come out of yo closet
+14:43:01	 From  DYLAN MICHAEL OGLE . : boi
+14:47:04	 From  ALARIC TANG MING KUN . : I cannot lah the first question
+14:47:18	 From  SUHAIMI BIN ROSLAN . : funny man
+14:47:35	 From  HUN YEW KWANG, BRIAN . : wtf LOL
+14:47:37	 From  DYLAN MICHAEL OGLE . : Someones been missing last week
+14:47:44	 From  Leow Yong Zheng : he mean the other kind of generalization LOL
+14:50:00	 From  SUHAIMI BIN ROSLAN . : dun so like that la prof
+14:50:07	 From  ONG ZE QUAN . : wtf i n level no have
+14:50:20	 From  ADAM LOH ITT HARP . : I never learn before :'(
+14:50:29	 From  SUHAIMI BIN ROSLAN . : maths also kena bm
+14:50:36	 From  Leow Yong Zheng : your physics got wad
+14:50:38	 From  Leow Yong Zheng : magnitude
+14:50:41	 From  SEAH YUAN SHENGH . : basically every number is a positive
+14:51:13	 From  LOW WEI YANG . : I think one way to think about it is if it is negative, just remove the negative part
+14:51:24	 From  SEAH YUAN SHENGH . : signed decimal number :P
+14:51:26	 From  LOW WEI YANG . : that's what abs do
+14:51:27	 From  SEAH YUAN SHENGH . : unsigned8
+14:51:31	 From  SEAH YUAN SHENGH . : *
+14:51:39	 From  LOW WEI YANG . : so |-a| = a
+14:52:04	 From  KOH HUAN YIN . : it negates the negative
+14:52:15	 From  LIM JIN TAO BENJAMIN . : a=0 ? 
+14:52:16	 From  SEAH YUAN SHENGH . : double negation
+14:52:37	 From  KOH HUAN YIN . : a can be 0 
+14:52:40	 From  LIM JIN TAO BENJAMIN . : is a 0 positive and negative or wat
+14:52:45	 From  KOH HUAN YIN . : b cannot be 0 cause will error
+14:52:49	 From  KOH HUAN YIN . : undefined
+14:53:05	 From  KOH HUAN YIN . : 0 is neither pos or neg
+14:53:15	 From  YAO YUJING . : cause error can be a case too?
+14:53:15	 From  SEAH YUAN SHENGH . : its actually non-positive
+14:53:16	 From  YAO YUJING . : haha
+14:54:40	 From  LOW WEI YANG . : 0 is a positive number
+14:55:07	 From  HUN YEW KWANG, BRIAN . : no?
+14:55:13	 From  SEAH YUAN SHENGH . : 0 is neither
+14:55:22	 From  HUN YEW KWANG, BRIAN . : 0 is a real number but neither both
+14:55:32	 From  KOH HUAN YIN . : ^
+14:55:46	 From  Zhang Zeyu : Why does it matter
+14:55:53	 From  Zhang Zeyu : Just consider the case as a >= 0?
+14:56:33	 From  KOH HUAN YIN . : who annotating
+14:56:50	 From  HUN YEW KWANG, BRIAN . : wait what
+14:56:55	 From  SUHAIMI BIN ROSLAN . : visible to all
+14:57:00	 From  HUN YEW KWANG, BRIAN . : how
+14:57:16	 From  KOH HUAN YIN . : sohai 
+14:57:20	 From  KOH HUAN YIN . : haha
+14:57:26	 From  SEAH YUAN SHENGH . : WEW NO INDUCTION
+14:57:35	 From  KOH HUAN YIN . : prob next week
+14:57:46	 From  HUN YEW KWANG, BRIAN . : it is next week
+14:57:52	 From  SUHAIMI BIN ROSLAN . : 10%
+14:58:12	 From  JASMIN YAP YI . : lockdown browser?
+14:58:16	 From  HUN YEW KWANG, BRIAN . : yes
+14:58:21	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : don't need or cannot?
+14:58:25	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : very big difference haha
+14:58:33	 From  LIM JIN TAO BENJAMIN . : closed book leh
+14:58:40	 From  SEAH YUAN SHENGH . : so far how many times u use calculator in 1005
+14:58:54	 From  HUN YEW KWANG, BRIAN . : ^
+14:58:55	 From  KOH HUAN YIN . : not including mathematical induction wew
+14:59:05	 From  LIM JIN TAO BENJAMIN . : wat de heck
+14:59:13	 From  LIM JIN TAO BENJAMIN . : no webcam = fail?
+14:59:13	 From  Jub : can we use paper and pen for personal workings?
+14:59:15	 From  LIM JIN TAO BENJAMIN . : ???
+14:59:20	 From  YAO YUJING . : think no webcam = gg
+14:59:24	 From  YAO YUJING . : cos u can cheat
+14:59:24	 From  YAO YUJING . : haha
+14:59:25	 From  LIM JIN TAO BENJAMIN . : p2w sia
+14:59:43	 From  KOH HUAN YIN . : school is always p2w
+14:59:47	 From  YAO YUJING . : haha
+14:59:49	 From  YAO YUJING . : for test
+14:59:52	 From  YAO YUJING . : f2p win too
+14:59:54	 From  YAO YUJING . : :D
+14:59:59	 From  ADAM LOH ITT HARP . : the mmo we all cant leave... 
+15:00:00	 From  Leow Yong Zheng : someone in this class has facerig
+15:00:01	 From  KHO WEN JIE . : mic in test O_O
+15:00:20	 From  YAO YUJING . : play music x tv
+15:00:25	 From  YAO YUJING . : volume 100%
+15:00:26	 From  YAO YUJING . : max
+15:00:38	 From  DYLAN MICHAEL OGLE . : instant disqualification lol
+15:00:41	 From  Leow Yong Zheng : doesn't facerig install a fake camera driver that gets picked up as a physical driver
+15:00:49	 From  Leow Yong Zheng : *camera
+15:00:56	 From  YAO YUJING . : what if my house is always noisy
+15:00:59	 From  YAO YUJING . : LOL
+15:01:02	 From  DYLAN MICHAEL OGLE . : Even if respondus picks that up, won't it cause a whole lot of flags?
+15:01:03	 From  SEAH YUAN SHENGH . : wah room scan sia
+15:01:07	 From  LIM JIN TAO BENJAMIN . : what the heck
+15:01:09	 From  YAO YUJING . : wthh
+15:01:10	 From  LIM JIN TAO BENJAMIN . : privacy intrusion sia
+15:01:12	 From  SEAH YUAN SHENGH . : wah maciam taking oscp sia
+15:01:24	 From  LIM HUAI FU . : woo
+15:01:25	 From  LIM JIN TAO BENJAMIN . : just do in school 
+15:01:27	 From  YAO YUJING . : if i go toilet consider fail anot
+15:01:27	 From  LIM JIN TAO BENJAMIN . : thinking
+15:01:33	 From  HUN YEW KWANG, BRIAN . : what if a headset has its own mute function
+15:01:36	 From  YAO YUJING . : i put all my notes inside toilet
+15:01:38	 From  HUN YEW KWANG, BRIAN . : will it pick that up
+15:01:40	 From  YAO YUJING . : like that i go toilet fail anot
+15:01:44	 From  YAO YUJING . : HAHAHAHAA
+15:01:51	 From  YAO YUJING . : ops
+15:01:54	 From  YAO YUJING . : leak
+15:02:05	 From  DYLAN MICHAEL OGLE . : Lack of white/background noise? Can be a respondus flag also I think
+15:02:40	 From  DYLAN MICHAEL OGLE . : I don't know how they coded it, just thinking, they would have expected students to mute their mics
+15:03:07	 From  SUHAIMI BIN ROSLAN . : demanding lol
+15:03:16	 From  SEAH YUAN SHENGH . : later prof say need check IC to check if its really u or not lol
+15:03:30	 From  HUN YEW KWANG, BRIAN . : they do that in other unis
+15:03:34	 From  DYLAN MICHAEL OGLE . : Send Birth cert and NS records. 
+15:03:44	 From  SUHAIMI BIN ROSLAN . : precise ah this respondus
+15:03:45	 From  SEAH YUAN SHENGH . : medical history
+15:03:50	 From  SEAH YUAN SHENGH . : also send them
+15:03:53	 From  SEAH YUAN SHENGH . : later u toh in the test how
+15:03:55	 From  YAO YUJING . : are the rats graded gg
+15:04:00	 From  SEAH YUAN SHENGH . : yes
+15:04:01	 From  HUN YEW KWANG, BRIAN . : yes
+15:04:03	 From  DYLAN MICHAEL OGLE . : Got receipt or not for your laptop?
+15:04:06	 From  DYLAN MICHAEL OGLE . : Show also
+15:04:07	 From  SEAH YUAN SHENGH . : all the RAT's add up to 2.5%
+15:04:16	 From  SEAH YUAN SHENGH . : must take off shirt and show nth inside
+15:05:50	 From  DYLAN MICHAEL OGLE . : Apparently also got eye tracking telemetry in respondus
+15:05:54	 From  DYLAN MICHAEL OGLE . : Can tell if youre looking at your phone
+15:05:58	 From  YAO YUJING . : for lock down browser u can only be away for 1 minute?
+15:06:04	 From  YAO YUJING . : did prof say that just now
+15:06:12	 From  SEAH YUAN SHENGH . : i looking at my working paper
+15:06:25	 From  SEAH YUAN SHENGH . : i think she means 1 min for the environment prep
+15:06:28	 From  SUHAIMI BIN ROSLAN . : respondus never heard of post it on screen before
+15:06:29	 From  YAO YUJING . : ohh
+15:06:39	 From  DYLAN MICHAEL OGLE . : Big Brain
+15:06:54	 From  YAO YUJING . : kinda weird
+15:06:59	 From  YAO YUJING . : theres thousand ways of cheating 
+15:07:11	 From  YAO YUJING . : D:
+15:07:14	 From  SUHAIMI BIN ROSLAN . : yeah if you really want to
+15:07:16	 From  YAO YUJING . : haha
+15:07:17	 From  DYLAN MICHAEL OGLE . : Webcam and mic covers a lot, but not all
+15:07:20	 From  YAO YUJING . : gg
+15:07:22	 From  SUHAIMI BIN ROSLAN . : it's a bit unenforceable
+15:07:25	 From  DYLAN MICHAEL OGLE . : But I don't recommend lol, you never heard from me
+15:07:33	 From  SUHAIMI BIN ROSLAN . : but they happy then ok lah. just do
+15:07:52	 From  SEAH YUAN SHENGH . : the last time i did a goddamn room scan i started half an hour late
+15:08:03	 From  SUHAIMI BIN ROSLAN . : at least no need chiong campus for test everytime
+15:08:36	 From  KHO WEN JIE . : 3:30pm come back right
+15:09:00	 From  SUHAIMI BIN ROSLAN . : RAT is 2.5% total just now someone said
+15:09:27	 From  DYLAN MICHAEL OGLE . : Anywhere on the Intranet/LMS can download Respondus?
+15:09:49	 From  SUHAIMI BIN ROSLAN . : got say later will post instructions on lms
+15:10:02	 From  SEAH YUAN SHENGH . : https://web.respondus.com/he/lockdownbrowser/
+15:10:04	 From  SEAH YUAN SHENGH . : ;)
+15:11:13	 From  DYLAN MICHAEL OGLE . : But doesn't SIT supply an account integration for students or something?
+15:11:26	 From  DYLAN MICHAEL OGLE . : Or does it ask for details, and you put in your school details l8r
+15:15:23	 From  Jun Hui Foong : https://download.respondus.com/lockdown/download.php?ostype=1&id=489944974
+15:15:51	 From  Jing Yong Ng : toilet
+15:15:57	 From  YAO YUJING . : gg
+15:16:24	 From  DYLAN MICHAEL OGLE . : *moth flies past webcam*
+15:16:30	 From  DYLAN MICHAEL OGLE . : *respondus freaks out*
+15:17:00	 From  YAO YUJING . : Wad...
+15:17:02	 From  YAO YUJING . : gg.....
+15:17:57	 From  DYLAN MICHAEL OGLE . : It scans and closes your processes
+15:18:03	 From  Amos :) : Respondus cannot open other tabs
+15:18:08	 From  Amos :) : It's fully locked down
+15:18:11	 From  DYLAN MICHAEL OGLE . : Or asks you to close them
+15:18:12	 From  SEAH YUAN SHENGH . : oooooh
+15:18:28	 From  RYAN CHEW KENG YANG . : How to explain to prof that I'm too ugly to turn on my webcam
+15:18:35	 From  JONATHAN TAN YU SHEN . : imagine someone unlock locked down browser zijie gpa 5.0
+15:18:44	 From  DYLAN MICHAEL OGLE . : HackerMan
+15:18:53	 From  SEAH YUAN SHENGH . : OSEE straight
+15:18:53	 From  ZURIEL NICHOLAS CHING FEI . : just click crtl alt del
+15:18:56	 From  BRYAN ONG MING EN . : monksd
+15:19:19	 From  Amos :) : What if we live in a house where there is only a living room? That there is no private rooms? Do we kick our family members out of the house for an hour?
+15:19:26	 From  Jing Yong Ng : yes
+15:19:29	 From  YAO YUJING . : damnn
+15:19:47	 From  SUHAIMI BIN ROSLAN . : living in a tent ah
+15:19:58	 From  Jub : got 1 room flat... haha
+15:20:00	 From  YAO YUJING . : what if you dont live with your family and you share room with some rando
+15:20:03	 From  YAO YUJING . : do you kick them out
+15:20:08	 From  YAO YUJING . : :D
+15:20:15	 From  Donovan Cham : go neighbour house?
+15:20:22	 From  SEAH YUAN SHENGH . : go school do lorh
+15:20:24	 From  JONATHAN TAN YU SHEN . : what happen if singtel blackout again
+15:20:25	 From  Jub : i suggest can try book room in SIT
+15:20:29	 From  SEAH YUAN SHENGH . : book 1 DR just to do
+15:20:29	 From  YAO YUJING . : go neighbour house and kick neighbour out
+15:20:31	 From  Edwin Nyeow : go book lan room
+15:20:32	 From  YAO YUJING . : D:
+15:21:00	 From  DYLAN MICHAEL OGLE . : Someone here is going to go full Light Yagami potato chip scene during the test
+15:21:59	 From  SEAH YUAN SHENGH . : flagged as cheating
+15:22:30	 From  SUHAIMI BIN ROSLAN . : flex
+15:22:50	 From  KHO WEN JIE . : just came back from shower, what did she answer about living room with family members
+15:23:03	 From  Jing Yong Ng : kick your family out
+15:23:36	 From  YAO YUJING . : they will kick you out instead
+15:23:37	 From  KOH HUAN YIN . : lmao the 369 question
+15:23:39	 From  TAN CI EN, ANNE . : then how did these quizzes even are conducted last time 
+15:23:39	 From  YAO YUJING . : D:
+15:23:40	 From  KOH HUAN YIN . : wtf
+15:23:47	 From  SEAH YUAN SHENGH . : in school
+15:23:50	 From  TAN CI EN, ANNE . : *how are these quizzes
+15:23:51	 From  SEAH YUAN SHENGH . : without covid
+15:23:53	 From  Jing Yong Ng : last time no covid
+15:24:10	 From  DYLAN MICHAEL OGLE . : We going to forget 2020 just happened?
+15:24:16	 From  TAN CI EN, ANNE . : but the timetable is the same right
+15:24:23	 From  Donovan Cham : 2020 best year
+15:24:27	 From  HUN YEW KWANG, BRIAN . : I think he meant the trimester before this
+15:24:33	 From  ONG ZE QUAN . : Lockdown
+15:24:34	 From  Donovan Cham : cant wait for 2032
+15:24:34	 From  SEAH YUAN SHENGH . : probs the same
+15:24:34	 From  HUN YEW KWANG, BRIAN . : her*
+15:24:36	 From  DYLAN MICHAEL OGLE . : ah
+15:24:54	 From  KOH HUAN YIN . : 2019, next year 2021. our kids: what happened to 2020? us: we don't say things about 2020
+15:24:59	 From  SEAH YUAN SHENGH . : TOH
+15:25:01	 From  SEAH YUAN SHENGH . : induction lai liao
+15:25:23	 From  ADAM LOH ITT HARP . : oh no...
+15:25:25	 From  YAO YUJING . : not enough core alr
+15:25:26	 From  KOH HUAN YIN . : aiya at least you learnt induction and know abt it before haha
+15:25:27	 From  DYLAN MICHAEL OGLE . : History books just gonna be like2017 --- 2018 --- 2019 --- 2021 --- 2022
+15:25:47	 From  HUN YEW KWANG, BRIAN . : the world ended for a year
+15:25:52	 From  KOH HUAN YIN . : from CAEM i assume
+15:26:16	 From  SEAH YUAN SHENGH . : bro logic is the easy topic, induction is hardest around
+15:26:23	 From  SEAH YUAN SHENGH . : in comparison
+15:26:29	 From  LEONG KAH EN . : prof, you are not recording
+15:26:32	 From  LOW WEI YANG . : oh what is induction about
+15:26:52	 From  KOH HUAN YIN . : oo this one only 3 steps
+15:26:53	 From  YAO YUJING . : what is logic about (._.)
+15:26:56	 From  SEAH YUAN SHENGH . : idk listen to prof karin
+15:26:57	 From  YAO YUJING . : D:
+15:27:06	 From  KOH HUAN YIN . : the one i know is 5 steps
+15:27:15	 From  SEAH YUAN SHENGH . : the one ik return to my old prof alr
+15:27:45	 From  Gunasekaran Pandiyan : ladder to heaven
+15:27:53	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : haha
+15:28:05	 From  SEAH YUAN SHENGH . : stairway to heaven~ but we all know induction sucks
+15:29:10	 From  YAO YUJING . : induction --> heaven?!
+15:29:21	 From  SEAH YUAN SHENGH . : getting prof steven flashbacks here
+15:29:26	 From  LEE XIAN FU . : while loop
+15:30:05	 From  KOH HUAN YIN . : i slowly getting ptsd le
+15:30:10	 From  DYLAN MICHAEL OGLE . : while true do  step+=1
+15:30:11	 From  SEAH YUAN SHENGH . : ^
+15:30:12	 From  SEAH YUAN SHENGH . : same
+15:30:21	 From  YAO YUJING . : week 3 *
+15:30:23	 From  YAO YUJING . : :D
+15:31:20	 From  nicholas chong : induction + recursion == true heaven and salvation
+15:31:36	 From  SEAH YUAN SHENGH . : well yes but actually no
+15:32:08	 From  DYLAN MICHAEL OGLE . : *prints False*
+15:32:21	 From  SEAH YUAN SHENGH . : exit(-1)
+15:32:23	 From  KOH HUAN YIN . : hahaha
+15:32:34	 From  KOH HUAN YIN . : then n+1 
+15:32:59	 From  LOW WEI YANG . : 16
+15:33:22	 From  SEAH YUAN SHENGH . : if u taking 1001 prof forest will murder u lol
+15:33:34	 From  ALOYSIUS YEO WEI JIE . : death to the heretic
+15:33:39	 From  KOH HUAN YIN . : his name funny lol
+15:33:41	 From  SEAH YUAN SHENGH . : death to america
+15:33:46	 From  nicholas chong : *prepares stones*
+15:33:53	 From  KOH HUAN YIN . : Chinese name is shu lin
+15:34:00	 From  KOH HUAN YIN . : also meaning forest
+15:34:35	 From  KOH HUAN YIN . : then his virtual bg always abt nature from what i saw from my friend
+15:34:43	 From  DYLAN MICHAEL OGLE . : ^
+15:34:50	 From  SEAH YUAN SHENGH . : 1001 background also
+15:35:13	 From  KOH HUAN YIN . : run forest run
+15:35:28	 From  SHAWN LEMUEL EVORA DABI . : i like forest i think he is very engaging
+15:35:35	 From  DYLAN MICHAEL OGLE . : Binary is like a box of chocolates
+15:35:42	 From  SEAH YUAN SHENGH . : u either have it or u dont
+15:35:43	 From  SEAH YUAN SHENGH . : :P
+15:35:54	 From  KOH HUAN YIN . : so either 1 or 0 LOL
+15:35:58	 From  KOH HUAN YIN . : good analogy
+15:36:03	 From  LEE XIAN FU . : does that answer your question?
+15:36:45	 From  HUN YEW KWANG, BRIAN . : what just happened
+15:37:27	 From  NG JUN KIAT . : I think she want us to prove 2^k+1 > 4k +4?
+15:37:29	 From  nicholas chong : life is like a train, train gonna stop someday
+15:37:35	 From  KOH HUAN YIN . : okay la not the 5 steps hell
+15:37:45	 From  SEAH YUAN SHENGH . : bruh
+15:37:48	 From  SEAH YUAN SHENGH . : u get to hell faster
+15:37:56	 From  nicholas chong : u have to prove that the base step holds for every subsequent inductive step
+15:38:02	 From  KOH HUAN YIN . : we are already in hell
+15:38:19	 From  ALARIC TANG MING KUN . : how do we even show that this is greater tho
+15:38:20	 From  KOH HUAN YIN . : don't want to take a step deeper haha
+15:38:24	 From  ALARIC TANG MING KUN . : aft the last step
+15:38:27	 From  SEAH YUAN SHENGH . : prof can show us an example? ;)
+15:38:30	 From  HUN YEW KWANG, BRIAN . : ???
+15:40:12	 From  nicholas chong : I think u have to sub the base step into the induction formula; hopefully she will show ltr
+15:40:31	 From  LEE KAI XUAN . : direct proof would require you to prove for every number greater than or equal to 5, which is just impossible
+15:40:44	 From  SEAH YUAN SHENGH . : ^
+15:40:45	 From  LOW WEI YANG . : thats why u use n+1
+15:40:47	 From  SEAH YUAN SHENGH . : proof by case
+15:41:43	 From  LEE KAI XUAN . : basically induction is:1) Prove P(k) is true for some value of k (in this case, 5).2) Assuming P(k) is true, prove P(k+1) is true.3) Now you have proven that P(k) is true for all k >= 5
+15:43:31	 From  ASHIQ KAREEM : so is this using universal generalization?
+15:43:41	 From  KOH HUAN YIN . : no
+15:44:10	 From  ASHIQ KAREEM : ah okay i got it
+15:44:14	 From  KOH HUAN YIN . : this is just proving the equation 
+15:45:11	 From  KOH HUAN YIN . : to show if its true if n then show that its true for n+1
+15:45:31	 From  KOH HUAN YIN . : *for n
+15:45:34	 From  ASHIQ KAREEM : thank you
+15:46:56	 From  DYLAN MICHAEL OGLE . : that dude
+15:47:40	 From  KOH HUAN YIN . : notation and sets
+15:47:47	 From  KOH HUAN YIN . : wew :<
+15:47:55	 From  KHO WEN JIE . : huh, induction finish topic liao?
+15:47:59	 From  KOH HUAN YIN . : yea
+15:48:01	 From  SEAH YUAN SHENGH . : yeah
+15:48:09	 From  KOH HUAN YIN . : why got knives one
+15:48:14	 From  KOH HUAN YIN . : to murder us
+15:48:17	 From  SEAH YUAN SHENGH . : take one and kill yourself
+15:48:18	 From  SEAH YUAN SHENGH . : jk
+15:48:28	 From  ZURIEL NICHOLAS CHING FEI . : press f
+15:48:34	 From  SEAH YUAN SHENGH . : honestly feels so much better than wotever this is
+15:48:38	 From  nicholas chong : gg sets gonna Segway to database...
+15:48:50	 From  RYAN CHEW KENG YANG . : lttstore.com
+15:49:05	 From  KOH HUAN YIN . : sponsored by tunnel bear
+15:49:12	 From  HUN YEW KWANG, BRIAN . : sponsored by nordvpn
+15:49:16	 From  DYLAN MICHAEL OGLE . : brought yo you by dashlane
+15:49:21	 From  DYLAN MICHAEL OGLE . : to*
+15:49:27	 From  LIM HUAI FU . : so  for the third step of induction, do we need sub a value in for k to show the equation is true
+15:49:33	 From  HUN YEW KWANG, BRIAN . : yes
+15:49:37	 From  KHO WEN JIE . : just to confirm next Monday quiz is 6pm start right
+15:49:46	 From  LIM JIA JIN, RANDALL . : not confirmed yet
+15:49:47	 From  HUN YEW KWANG, BRIAN . : i think she said 7
+15:49:47	 From  ALARIC TANG MING KUN . : timing not confirm
+15:49:49	 From  nicholas chong : @Huai fu yes
+15:49:49	 From  KOH HUAN YIN . : sub to k+1
+15:49:50	 From  HUN YEW KWANG, BRIAN . : but not confirmed
+15:50:12	 From  LIM JIN TAO BENJAMIN . : https://learningcatalytics.com/class_sessions/51916468
+15:50:12	 From  LIM HUAI FU . : ahh okay thanks
+15:50:17	 From  ALARIC TANG MING KUN . : 51916468
+15:50:18	 From  LEE KAI XUAN . : https://learningcatalytics.com/class_sessions/51916468
+15:50:49	 From  DYLAN MICHAEL OGLE . : https://learningcatalytics.com/class_sessions/51916468
+15:50:59	 From  DYLAN MICHAEL OGLE . : oops didn't see above
+15:51:48	 From  DYLAN MICHAEL OGLE . : "All of the students apply to the group humans"
+15:51:50	 From  DYLAN MICHAEL OGLE . : I hope so
+15:52:09	 From  Jing Yong Ng : all students will get 5
+15:52:32	 From  KOH HUAN YIN . : sed alien students
+15:53:08	 From  Jub : ICT SMC LOL
+15:53:10	 From  Amos :) : uhh
+15:53:13	 From  Amos :) : we can't answer anymore
+15:53:15	 From  HUN YEW KWANG, BRIAN . : wait what
+15:53:16	 From  Ivan : it ended
+15:53:17	 From  TAN XU MEI CLAUDIA . : too fast..
+15:53:19	 From  SUHAIMI BIN ROSLAN . : denied
+15:53:21	 From  CHU ANGIE . : didn't get to write anything?
+15:53:25	 From  LIM JIN TAO BENJAMIN . : she closed it lol
+15:53:39	 From  thomas : always has been
+15:53:40	 From  Jared Song : my class part
+15:53:46	 From  DYLAN MICHAEL OGLE . : 2 second window
+15:53:49	 From  HUN YEW KWANG, BRIAN . : didn't even get the option to write
+15:53:49	 From  CHU ANGIE . : lol
+15:53:58	 From  KOH HUAN YIN . : lol
+15:53:59	 From  LIM HUAI FU . : speedrun
+15:54:00	 From  JAS PANG ZE XIN . : refund my sch fees
+15:54:02	 From  KOH HUAN YIN . : super fast typers
+15:56:06	 From  HUN YEW KWANG, BRIAN . : she didn't release the sets lecture slide right
+15:56:14	 From  SEAH YUAN SHENGH . : nope
+15:56:18	 From  HUN YEW KWANG, BRIAN . : ty
+15:57:18	 From  HUN YEW KWANG, BRIAN . : what a trap
+15:58:29	 From  DYLAN MICHAEL OGLE . : By second trimester, hopefully we're bamboozle proof
+15:59:24	 From  KOH HUAN YIN . : annotate lol
+16:00:02	 From  LIM JIN TAO BENJAMIN . : eh fak
+16:00:07	 From  LIM JIN TAO BENJAMIN . : is supposed to be on learningcatalytics
+16:00:12	 From  HUN YEW KWANG, BRIAN . : yea
+16:00:15	 From  DYLAN MICHAEL OGLE . : Nobody get funny with the sketches
+16:00:19	 From  DYLAN MICHAEL OGLE . : lol
+16:00:21	 From  HUN YEW KWANG, BRIAN . : omg LOL
+16:00:44	 From  DYLAN MICHAEL OGLE . : learningcatalytics == scribble.io
+16:02:10	 From  KHO WEN JIE . : well piano can sing
+16:02:13	 From  KHO WEN JIE . : but diff way
+16:03:12	 From  DYLAN MICHAEL OGLE . : This would be false, if we're all terrible singers tho
+16:04:10	 From  SEAH YUAN SHENGH . : ah but its relative so the best out the worst will still be considered good ;)
+16:04:18	 From  KHO WEN JIE . : lol 
+16:04:19	 From  LIM JIN TAO BENJAMIN . : oh nononono
+16:04:19	 From  HUN YEW KWANG, BRIAN . : OI LMAO
+16:04:22	 From  LIM HUAI FU . : wth
+16:04:24	 From  HUN YEW KWANG, BRIAN . : maintain pls
+16:04:25	 From  ALARIC TANG MING KUN . : WTH
+16:04:34	 From  ALARIC TANG MING KUN . : Illegal drawings
+16:04:39	 From  DYLAN MICHAEL OGLE . : that scribble below
+16:05:23	 From  HUN YEW KWANG, BRIAN . : F
+16:05:25	 From  NG JUN KIAT . : m
+16:05:27	 From  Jing Yong Ng : m
+16:05:34	 From  SUHAIMI BIN ROSLAN . : hi i'm muhaimi
+16:05:34	 From  DYLAN MICHAEL OGLE . : We're all called Martin
+16:05:40	 From  SEAH YUAN SHENGH . : why not martini
+16:05:45	 From  DYLAN MICHAEL OGLE . : ^
+16:05:48	 From  DYLAN MICHAEL OGLE . : Good idea Martini
+16:06:01	 From  JESSICA TAN GUANG HUI . : Map
+16:06:08	 From  SEAH YUAN SHENGH . : i think that's something we all need after an hour of 1005
+16:06:31	 From  DYLAN MICHAEL OGLE . : ^
+16:06:42	 From  DYLAN MICHAEL OGLE . : Sadly got 1004 next
+16:06:59	 From  SEAH YUAN SHENGH . : hopefully our lord and saviour chipmunk can lead us to salvation
+16:07:20	 From  nicholas chong : ^
+16:07:31	 From  nicholas chong : amen
+16:07:32	 From  HUN YEW KWANG, BRIAN . : sadly? im glad theres 1004
+16:07:36	 From  DYLAN MICHAEL OGLE . : His first proclamation is we all make catnip themed sites
+16:07:50	 From  SEAH YUAN SHENGH . : 1st commandment no dogs allowed
+16:08:03	 From  SEAH YUAN SHENGH . : 2nd commandment only give no take
+16:09:20	 From  HUN YEW KWANG, BRIAN . : oh shit
+16:09:26	 From  DYLAN MICHAEL OGLE . : C A T
+16:09:34	 From  LEE XIAN FU . : chipmunk time
+16:09:35	 From  DYLAN MICHAEL OGLE . : who wrote that lmao
+16:09:40	 From  ZURIEL NICHOLAS CHING FEI . : hh
+16:09:42	 From  HUN YEW KWANG, BRIAN . : how do u even do that
+16:09:42	 From  TAN CI EN, ANNE . : so next week got quiz AND TEST
+16:09:52	 From  SEAH YUAN SHENGH . : oh yeah 1004 has a quiz also
+16:09:54	 From  SEAH YUAN SHENGH . : next week
+16:09:59	 From  nicholas chong : gg ppl abusing annotation
+16:10:07	 From  SEAH YUAN SHENGH . : esp the oscp guy
+16:10:08	 From  DYLAN MICHAEL OGLE . : gg next week
+16:10:25	 From  TAN CI EN, ANNE . : as in math got both the RAT quiz and the TEST ??
+16:10:27	 From  nicholas chong : ownself check ownself?!?!
+16:10:36	 From  TEY SHU JUAN . : 1004 quiz not week5?
+16:10:38	 From  SEAH YUAN SHENGH . : nah bruh ik i have it no need to check
+16:10:58	 From  TAN CI EN, ANNE . : but Tues is whole day back to back mass lectures
+16:11:05	 From  HUN YEW KWANG, BRIAN . : doxxed
+16:11:10	 From  SEAH YUAN SHENGH . : oh right its in week 5 lol
+16:11:17	 From  SEAH YUAN SHENGH . : mb
+16:11:23	 From  KOH HUAN YIN . : pdpa sia
+16:11:28	 From  SEAH YUAN SHENGH . : wah wtf
+16:11:30	 From  KOH HUAN YIN . : haha
+16:11:34	 From  nicholas chong : @yuan sheng so I am guessing OSWP next?
+16:11:39	 From  SEAH YUAN SHENGH . : nah
+16:11:40	 From  SEAH YUAN SHENGH . : WE
+16:11:43	 From  nicholas chong : wtf
+16:11:46	 From  SEAH YUAN SHENGH . : not for a long time though
+16:11:47	 From  KHO WEN JIE . : speak russian
+16:11:48	 From  nicholas chong : all the best
+16:11:49	 From  KOH HUAN YIN . : whats that
+16:11:51	 From  SEAH YUAN SHENGH . : thanks
+16:12:00	 From  SEAH YUAN SHENGH . : now is covid hard to get my router for WP
+16:12:10	 From  ONG ZE QUAN . : There should be no construction after 6
+16:12:16	 From  ONG ZE QUAN . : REPORT
+16:12:25	 From  DYLAN MICHAEL OGLE . : cursed zoom session
+16:12:27	 From  HUN YEW KWANG, BRIAN . : flights still randomly happen
+16:12:27	 From  KOH HUAN YIN . : worker's party?
+16:12:35	 From  Donovan Cham : paya lebar area lol
+16:12:46	 From  nicholas chong : oscp seems like a cult
+16:13:09	 From  HUN YEW KWANG, BRIAN . : it has SCP in it :l
+16:13:18	 From  KOH HUAN YIN . : oh
+16:13:23	 From  KOH HUAN YIN . : it's for aliens
+16:13:35	 From  SEAH YUAN SHENGH . : geez if doxing ppl at least get their name right
+16:13:42	 From  DYLAN MICHAEL OGLE . : Can each annotation be linked to an account?
+16:13:46	 From  DYLAN MICHAEL OGLE . : lmao
+16:14:04	 From  HUN YEW KWANG, BRIAN . : LOL
+16:14:05	 From  WONG YONG HAN . : lollll
+16:14:05	 From  KOH HUAN YIN . : i think host can see
+16:14:08	 From  KOH HUAN YIN . : wtf
+16:14:10	 From  nicholas chong : ggwp
+16:14:10	 From  SEAH YUAN SHENGH . : ...
+16:14:45	 From  DYLAN MICHAEL OGLE . : We're all in our 20's...
+16:14:46	 From  Erin Chee : everything is recorded
+16:14:49	 From  nicholas chong : lmao legit abused
+16:14:55	 From  HUN YEW KWANG, BRIAN . : clearly not
+16:15:01	 From  KOH HUAN YIN . : annotation is ab00s badly
+16:15:04	 From  nicholas chong : ...
+16:15:07	 From  SEAH YUAN SHENGH . : not that idiot that keeps typing oscp
+16:15:14	 From  HUN YEW KWANG, BRIAN . : ^
+16:15:15	 From  nicholas chong : LOL
+16:15:17	 From  DYLAN MICHAEL OGLE . : hahaha
+16:15:20	 From  KOH HUAN YIN . : imagine prof Karin looks back at the recordings
+16:15:28	 From  nicholas chong : gg kena framed...
+16:15:29	 From  KHO WEN JIE . : just copy paste yuan sheng's linkedin
+16:15:37	 From  SEAH YUAN SHENGH . : ^ not how u spell it
+16:15:40	 From  KOH HUAN YIN . : that one really pdpa alr
+16:15:51	 From  KOH HUAN YIN . : haha
+16:16:02	 From  nicholas chong : this is y humans cannot have nice thing
+16:16:06	 From  SEAH YUAN SHENGH . : ^
+16:16:07	 From  nicholas chong : prof never disable annotation
+16:16:13	 From  nicholas chong : ppl abuse it like crazy
+16:16:45	 From  KOH HUAN YIN . : yuan shengh got a huge fan club
+16:16:49	 From  SEAH YUAN SHENGH . : eh gay
+16:16:53	 From  SEAH YUAN SHENGH . : i don't need one
+16:16:54	 From  nicholas chong : lmao
+16:16:55	 From  Aloysius : Why are you so triggered? Your linkedin is public bro
+16:17:06	 From  SEAH YUAN SHENGH . : its annoying bro
+16:17:16	 From  ASHIQ KAREEM : LOL
+16:17:24	 From  SEAH YUAN SHENGH . : imagine someone keeps copy pasting your linkedin and referencing stuff like this
+16:17:25	 From  KHO WEN JIE . : then shldnt keep saying u fail oscp 11 times kekw
+16:17:27	 From  KHO WEN JIE . : now every1 into it
+16:17:28	 From  SEAH YUAN SHENGH . : it gets to u know
+16:17:38	 From  SEAH YUAN SHENGH . : huh
+16:17:38	 From  SEAH YUAN SHENGH . : weird
+16:17:40	 From  nicholas chong : pretty sure got others with oscp here too
+16:17:41	 From  SEAH YUAN SHENGH . : i didn't even afil
+16:17:43	 From  SEAH YUAN SHENGH . : fail*
+16:17:45	 From  SEAH YUAN SHENGH . : ofc
+16:17:52	 From  Aloysius : Yeah, like what Wen Jie said, you kept mentioning OSCP so much, it's come back to bite you
+16:17:54	 From  SEAH YUAN SHENGH . : it wont be fun either ways
+16:18:06	 From  Aloysius : You said you failed 10 times before?
+16:18:13	 From  SEAH YUAN SHENGH . : well uh
+16:18:15	 From  SEAH YUAN SHENGH . : i trolled lol
+16:18:16	 From  KOH HUAN YIN . : that's an obv lie
+16:18:17	 From  ASHIQ KAREEM : omg the OSCP finale
+16:18:18	 From  DYLAN MICHAEL OGLE . : Someone is white hat DDOS'ing lol
+16:18:21	 From  Aloysius : Why you lie then? :/
+16:18:26	 From  KHOIRUN ILMAN BIN KAMARUDIN . : now its back to troll you
+16:18:27	 From  SEAH YUAN SHENGH . : ehhh its fun~
+16:18:28	 From  Zhang Zeyu : I mean, that’s the point right, you said you failed but you didn’t lol
+16:18:29	 From  DYLAN MICHAEL OGLE . : spamming white squares to erase annotations
+16:18:32	 From  KHO WEN JIE . : LOL
+16:18:38	 From  Aloysius : then don't complain about it
+16:18:41	 From  NG ZHI YANG . : not sure why he lied, he wrote on facebook multiple times that he passed
+16:18:45	 From  nicholas chong : lol the annotation got to stop le...cfm next wk disabled
+16:18:45	 From  SEAH YUAN SHENGH . : u give others a chance to talk shit
+16:18:46	 From  Aloysius : You troll, you get trolled
+16:18:56	 From  SEAH YUAN SHENGH . : but u have the last laugh
+16:19:05	 From  KHO WEN JIE . : LOL DO IT IN TOILET EXAM
+16:19:06	 From  Aloysius : Think twice before doing anything in the future then?
+16:19:19	 From  SEAH YUAN SHENGH . : welp i don't really care though
+16:19:26	 From  nicholas chong : LOL^
+16:19:36	 From  SEAH YUAN SHENGH . : its mine to have and its here to stay
+16:19:36	 From  nicholas chong : chill la aloysius
+16:19:40	 From  SUHAIMI BIN ROSLAN . : don't have to get so invested in small matters boys
+16:19:42	 From  ASHIQ KAREEM : c’mon guys chillleeeeeee
+16:19:46	 From  Aloysius : then complain so much haiz
+16:19:46	 From  KHOIRUN ILMAN BIN KAMARUDIN . : LOL don't care yet getting irritated about people posting linkedin link
+16:20:00	 From  Aloysius : don't care yet so agitated about people putting you out there lol
+16:20:20	 From  SEAH YUAN SHENGH . : i care cuz i cant see the slides
+16:21:29	 From  Aloysius : yeah, because a linkedin url is so much more obtrusive than people spamming white squares
+16:21:37	 From  KHO WEN JIE . : aiyo nvm la, let it off, prof later see this like awkward
+16:21:51	 From  SEAH YUAN SHENGH . : multiple linkedin url
+16:22:00	 From  MUHAMMAD NURHAKIM BIN MOHD RAZALEE . : ok goodbye
+16:22:04	 From  DYLAN MICHAEL OGLE . : posting once is funny
+16:22:07	 From  DYLAN MICHAEL OGLE . : spam is cringe lol
+16:22:10	 From  SEAH YUAN SHENGH . : ^

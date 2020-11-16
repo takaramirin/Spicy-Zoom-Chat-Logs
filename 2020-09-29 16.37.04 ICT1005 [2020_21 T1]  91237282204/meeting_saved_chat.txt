@@ -1,0 +1,636 @@
+12:56:33	 From  LIM JIN TAO BENJAMIN . : yes
+12:56:34	 From  DARREN LIM QIN YI . : yes prof can hear you
+12:56:35	 From  KWANG GUAN CONG . : yup
+12:58:05	 From  LIM JIN TAO BENJAMIN . : ohnonononono
+12:58:15	 From  Angelene Joshna : :(
+12:58:17	 From  LOW WEI YANG . : will we go thru the test in lecture or tutorial?
+12:58:24	 From  SEAH YUAN SHENGH . : GG
+12:58:31	 From  ZURIEL NICHOLAS CHING FEI . : gg
+12:58:37	 From  Ng Jing Fang : what happen? I just join :O
+12:59:27	 From  YANG XIAO . : the symbol needs to copy from the formual sheet 
+12:59:38	 From  YANG XIAO . : formula* 
+12:59:45	 From  SEAH YUAN SHENGH . : she say got 1 qn surprised her in a negative way
+12:59:50	 From  Jub : I accidentally tried ALT-Tab to go to the formula sheet then I got dc from the browser lol
+13:00:25	 From  Ng Jing Fang : Ooo Oh no :o
+13:00:47	 From  LIM JIN TAO BENJAMIN . : keylogger monkaS
+13:01:01	 From  Andrew : Wait keystrokes? Is that legal?
+13:01:04	 From  SUHAIMI BIN ROSLAN . : ya this respondus really try to track everything
+13:01:27	 From  KOH HUAN YIN . : is it possible to have LaTex in the text box for the future tests to input the symbols? :(
+13:01:39	 From  Andrew : So if I type my password it logs my passwords? Why weren't we told about that?
+13:01:54	 From  KOH HUAN YIN . : cause its laggy when switching tabs
+13:02:00	 From  LIM JIN TAO BENJAMIN . : why would u need to type ur password after u on lockdown browser thou 
+13:02:01	 From  SUHAIMI BIN ROSLAN . : after respondus starts you want log in where
+13:02:25	 From  DYLAN MICHAEL OGLE . : Where did it ask you to login?
+13:02:35	 From  Andrew : Why does it matter what I did? We weren't even told it logs keystrokes!
+13:02:57	 From  DYLAN MICHAEL OGLE . : It logs your answers to the quiz, and keystrokes happen to be a part of that
+13:03:10	 From  DYLAN MICHAEL OGLE . : If you decide to write your answer to question 1 as your password, its your fault
+13:03:11	 From  KOH HUAN YIN . : prof just said it logs the keystrokes tho
+13:03:29	 From  LIM JIN TAO BENJAMIN . : :(
+13:03:41	 From  KOH HUAN YIN . : and it's kind of implied it logs the keystrokes to monitor us 
+13:03:45	 From  LIM JIN TAO BENJAMIN . : only selected 3 
+13:03:49	 From  SUHAIMI BIN ROSLAN . : I think it's part of the agreement you agree 
+13:04:02	 From  SUHAIMI BIN ROSLAN . : agree to* at the start
+13:04:29	 From  SEAH YUAN SHENGH . : hey its not respondus' fault u decided to not read the TOS
+13:04:44	 From  DYLAN MICHAEL OGLE . : With a browser as sticky as Respondus, it's to be expected how in-depth its logging and telemetry is
+13:05:01	 From  DYLAN MICHAEL OGLE . : My worry would be stolen Biometric data from our iris movements and facial recognition systems
+13:05:09	 From  DYLAN MICHAEL OGLE . : Not what I typed
+13:05:20	 From  DYLAN MICHAEL OGLE . : If any worry beyond the TOS
+13:05:23	 From  Leow Yong Zheng : what happened lol
+13:07:23	 From  Andrew : Surely someone with OSCP would also understand the implications of a keylogger irregardless? Maybe OSCP isn't as great as I thought it was.
+13:07:50	 From  DYLAN MICHAEL OGLE . : Wow
+13:07:55	 From  SEAH YUAN SHENGH . : if you aren't doing anything significant why are u even worried about getting logged
+13:07:58	 From  DYLAN MICHAEL OGLE . : Really Andrew
+13:08:01	 From  SEAH YUAN SHENGH . : unless you were trying to cheat
+13:08:16	 From  SEAH YUAN SHENGH . : 90% sure its on respondus' TOS when u installed it
+13:08:30	 From  Leow Yong Zheng : "nothing to worry about" is a bad argument tbh
+13:08:32	 From  KOH HUAN YIN . : no one reads the TOS
+13:08:34	 From  Andrew : Really? That "If you aren't doing anything bad, why be afraid of your privacy?"
+13:08:38	 From  SEAH YUAN SHENGH . : exactly
+13:08:42	 From  Andrew : Seriously? That kind of reasoning?
+13:08:44	 From  DYLAN MICHAEL OGLE . : The problem isn't whether we were or weren't aware of it's keylogging activities while it is running
+13:08:45	 From  SEAH YUAN SHENGH . : that's why no one is complaining but him
+13:08:48	 From  JONATHAN TAN YU SHEN . : y worry about personal data loss , I mean even mindef database got hacked before
+13:08:52	 From  DYLAN MICHAEL OGLE . : But what can it even grab from key logging?
+13:09:03	 From  Leow Yong Zheng : what was the TOS violation lol
+13:09:08	 From  SUHAIMI BIN ROSLAN . : it's not great, but what you gonna do eh
+13:09:15	 From  SUHAIMI BIN ROSLAN . : bo pian for now
+13:09:40	 From  TAN CI EN, ANNE . : so 2 is False?
+13:09:44	 From  Jub : yeah
+13:10:00	 From  DYLAN MICHAEL OGLE . : 56% of us died
+13:10:02	 From  KOH HUAN YIN . : wot
+13:10:13	 From  LIM JIN TAO BENJAMIN . : dont get the diff between 1 and 2 sia 
+13:10:16	 From  Jing Yong Ng : I think I failed
+13:10:19	 From  NICHOLAS LUM YE HAN . : ^
+13:10:27	 From  DYLAN MICHAEL OGLE . : ^2
+13:10:29	 From  Ng Jing Fang : Ooono... I choose the correct one now .. but in the test i choose the wrong one :/
+13:10:41	 From  Andrew : I really hope some of you aren't from IS, the kind of attitude you guys have is abysmal.
+13:10:43	 From  KOH HUAN YIN . : ^3
+13:10:56	 From  SUHAIMI BIN ROSLAN . : don't get ahead of yourselves guys
+13:11:05	 From  DYLAN MICHAEL OGLE . : Your choice of threat actors is what's abysmal
+13:11:28	 From  NG ZHI YANG . : don't bother Andrew :)
+13:11:54	 From  LOW WEI YANG . : :D
+13:12:04	 From  Leow Yong Zheng : why do you think I have a dedicated SIT machine that is isolated from all my personal accounts lol
+13:12:13	 From  Andrew : I mean, I also have a dedicated SIT machine
+13:12:28	 From  Andrew : Not sure what you mean by "threat actors", why you using big words when we aren't talking about big stuff?
+13:12:38	 From  Andrew : You will be the reason why we would turn into a surveillance state.
+13:12:39	 From  LIM JIN TAO BENJAMIN . : shut up this is math class
+13:12:42	 From  KOH HUAN YIN . : chill dude
+13:12:50	 From  SEAH YUAN SHENGH . : so is any of this related to wotever prof is going through right now?
+13:13:00	 From  DYLAN MICHAEL OGLE . : From keylogging in TOS, to Politics
+13:13:06	 From  DYLAN MICHAEL OGLE . : I'm done talking lol
+13:13:08	 From  Andrew : Funny, like Python class earlier right?
+13:13:19	 From  SHAWN LEMUEL EVORA DABI . : https://www.youtube.com/watch?v=HI-hKN-dVLY
+13:13:23	 From  SHAWN LEMUEL EVORA DABI . : relax
+13:13:24	 From  HUN YEW KWANG, BRIAN . : you need to chill sir
+13:13:26	 From  Ng Jing Fang : meoww~
+13:14:45	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : so easier to see true or not, we try to place them in an equation
+13:14:56	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : or any scenario
+13:15:13	 From  SUHAIMI BIN ROSLAN . : You have to come up with a suitable scenario though, I find it challenging
+13:15:36	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : best scenarios is some x + y I guess..
+13:15:42	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : ugh confirm fail lah yesterday
+13:16:28	 From  NG ZHENG HAN . : so 6 is false?
+13:16:35	 From  CHUA YING WEI, DEXTER . : yep
+13:16:58	 From  NG ZHENG HAN . : ty
+13:17:36	 From  Nicholas Ooi : Julie is American
+13:17:38	 From  Jub : American Vegetarians eat chips
+13:17:56	 From  KEE ZHONG YI . : Julie doesn't eat burgers
+13:18:07	 From  Nicholas Ooi : can we say there are some americans who are vegetarians?
+13:18:09	 From  NG JUN KIAT . : o.o
+13:18:27	 From  TAN CI EN, ANNE . : wah this one my favourite qns just whack conclusions only 
+13:18:29	 From  LEE KAI XUAN . : can someone ask if this statement is a valid answer: "Julie eats burgers or chips"
+13:18:45	 From  HUN YEW KWANG, BRIAN . : that's not right
+13:18:45	 From  BRYAN ONG MING EN . : but julie doesn’t eat burgers
+13:18:46	 From  KHO WEN JIE . : no its not valid
+13:18:48	 From  DYLAN MICHAEL OGLE . : Nope, Julie is a Vegetarian
+13:18:48	 From  CARLTON ANTHONI FOO . : But Julie doesn't eat burgers
+13:18:50	 From  BRYAN ONG MING EN . : because she is vegan
+13:18:53	 From  CHONG FU MIN . : cannot ah! Julie don't eat burger de
+13:18:54	 From  KHO WEN JIE . : u alrdy knw she doesn't eat burger
+13:18:56	 From  LEE KAI XUAN . : ya but is "or"
+13:18:56	 From  CHONG FU MIN . : she vegetarian
+13:18:58	 From  HUN YEW KWANG, BRIAN . : that already goes against 2
+13:18:58	 From  LEE KAI XUAN . : no?
+13:19:08	 From  Ng Jing Fang : Julie eat chips.
+13:19:09	 From  DYLAN MICHAEL OGLE . : Serve Julie a Vegetarian, she'll serve you your life lol
+13:19:13	 From  TAN CI EN, ANNE . : whack as many u can and pray 3 of them is correct
+13:19:15	 From  DYLAN MICHAEL OGLE . : Burger* whoops
+13:19:20	 From  LEE KAI XUAN . : coz my 3 statements is "Julie does not burgers" "Julie eats burgers or chips" "Julie eats chips"
+13:19:31	 From  LEE KAI XUAN . : *Julie does not eat burgers
+13:19:31	 From  KOH HUAN YIN . : uncle roger hates julie
+13:19:37	 From  thomas : can I say vegetarian eat chips
+13:19:37	 From  KOH HUAN YIN . : cause she vegetarian
+13:19:47	 From  ALARIC TANG MING KUN . : I put there is an American who doesn't eat burgers
+13:20:15	 From  Leow Yong Zheng : simplification ANNE
+13:20:25	 From  SEAH YUAN SHENGH . : simplification rule first 
+13:20:41	 From  LEE KAI XUAN . : kms
+13:20:43	 From  NG JUN KIAT . : ded
+13:20:44	 From  YAO YUJING . : 。。
+13:20:45	 From  KOH JIA CHENG . : bruuh
+13:20:47	 From  MUHAMMAD NURHAKIM BIN MOHD RAZALEE . : sayonara
+13:20:49	 From  CARLTON ANTHONI FOO . : F
+13:20:50	 From  YAO YUJING . : what..
+13:20:53	 From  NG JUN KIAT . : how about Julie is Julie
+13:20:54	 From  DYLAN MICHAEL OGLE . : "simplification"
+13:20:57	 From  Leow Yong Zheng : the structure of 3 is (A and V), but premise 1 only accepts A as a parameter
+13:21:00	 From  KOH HUAN YIN . : simp
+13:21:09	 From  TAN CI EN, ANNE . : Criesssss
+13:21:22	 From  CHONG FU MIN . : "Not all americans eat burger or chips" true or not since we got premise 3 to counter
+13:21:28	 From  WONG CHE WEI . : Not all Americans eat burgers
+13:21:33	 From  TAN CI EN, ANNE . : Suddenly I'm not sure of my other answers 
+13:21:46	 From  DYLAN MICHAEL OGLE . : Haha, ded
+13:21:52	 From  RAJA NUR FADHILAH BINTE RAJA ABDUL RAHMAN . : gg
+13:22:07	 From  HUN YEW KWANG, BRIAN . : its like playing Russian roulette in this module
+13:22:14	 From  TAN CI EN, ANNE . : HAHAHA YEA
+13:22:21	 From  DYLAN MICHAEL OGLE . : But all chambers are loaded, and only 1 is not loaded
+13:22:23	 From  TAN CI EN, ANNE . : I LIKE THAT ANALOGY
+13:22:44	 From  Jing Yong Ng : imagine the final exam
+13:22:47	 From  Ng Jing Fang : Julie eat chips.Julie does not eat burgers.Julie is an American vegetarian that eat chips but not burgers?
+13:23:02	 From  AIDIL IRFAN BIN AZAM . : nani
+13:23:04	 From  YAO YUJING . : ...
+13:23:05	 From  KOH JIA CHENG . : mindblown
+13:23:09	 From  YAO YUJING . : what is going on
+13:23:10	 From  LIM HUAI FU . : wow
+13:23:14	 From  Adam : philosophy
+13:23:16	 From  RYAN CHEW KENG YANG . : Aight imma head out
+13:23:19	 From  SUHAIMI BIN ROSLAN . : how can americans be real
+13:23:20	 From  ZURIEL NICHOLAS CHING FEI . : math is a lie
+13:23:24	 From  DYLAN MICHAEL OGLE . : Thanks Julie
+13:23:26	 From  Ng Jing Fang : :oooooooo
+13:23:31	 From  Leow Yong Zheng : its a multi step alaric
+13:23:35	 From  Leow Yong Zheng : you cannot jump
+13:23:53	 From  LIM JIN TAO BENJAMIN . : did the question mention anything about not using multiple rules? 
+13:24:08	 From  LEE KAI XUAN . : but I thought we don't need to give which rule we use?
+13:24:14	 From  BOEY JING HENG TERENCE . : is it acceptable to write Some vegetarian eat chip
+13:24:15	 From  LEE KAI XUAN . : or were we supposed to provide and I didn't see -_-
+13:24:31	 From  DYLAN MICHAEL OGLE . : gg
+13:24:32	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : i think conclusion has many many answers 
+13:24:32	 From  SEAH YUAN SHENGH . : nope don't need to apparently
+13:24:33	 From  Leow Yong Zheng : I think people are confused because there are two questions under that topic
+13:24:56	 From  Leow Yong Zheng : 1 is give 3 conclusions and the other is which rules can be used first
+13:25:02	 From  HAN EN DING . : can use implication in conclusion?
+13:25:19	 From  Jing Yong Ng : oh the 2 questions are linked
+13:25:19	 From  LIM JIN TAO BENJAMIN . : wait u mean that question was related to this qn..?
+13:25:21	 From  LIM JIN TAO BENJAMIN . : wtf??
+13:25:28	 From  Jing Yong Ng : didn't know that
+13:25:38	 From  LIM JIN TAO BENJAMIN . : why they put as separate question number instead of like 1(b) 
+13:25:38	 From  Xian Fu Lee : ahhahah you're not the only one
+13:25:45	 From  MOHAMMAD SHAHMIZAN BIN SHAM AFFANDI . : uhhh i don't think it's related
+13:25:47	 From  LOW WEI YANG . : So you can't conclude that there are americans?
+13:25:59	 From  SUHAIMI BIN ROSLAN . : asking prof double up ah you all
+13:26:07	 From  Leow Yong Zheng : because the question already say "this info will be used for the next 2 questions"
+13:26:11	 From  Jing Yong Ng : u can conclude there is a Julie
+13:26:27	 From  SEAH YUAN SHENGH . : you can even conclude that there is an american
+13:27:10	 From  DYLAN MICHAEL OGLE . : That's 2 already, lol
+13:27:42	 From  KOH HUAN YIN . : thanks for your encouragement, prof :)
+13:27:57	 From  HUN YEW KWANG, BRIAN . : ^
+13:28:07	 From  HUN YEW KWANG, BRIAN . : That was really nice
+13:28:17	 From  Leow Yong Zheng : cannot say all americans eat chips, we don't know that Julie is the only american
+13:29:21	 From  TAN CI EN, ANNE . : so which of the rules of inference 
+13:29:35	 From  GOU HANG . : last 1
+13:29:48	 From  TAN CI EN, ANNE . : was the correct answer
+13:29:54	 From  GOU HANG . : yes
+13:29:54	 From  TAN CI EN, ANNE . : EG?!
+13:29:55	 From  SUHAIMI BIN ROSLAN . : some of the questions really no head no tail sia
+13:29:55	 From  GOU HANG . : last 1
+13:30:02	 From  GOU HANG . : hhaha
+13:30:04	 From  GOU HANG . : true
+13:30:04	 From  TAN CI EN, ANNE . : fail alrdy lah 
+13:30:17	 From  Ng Jing Fang : ^
+13:30:22	 From  CHAM ZHENG HAN, DONOVAN . : ^
+13:30:30	 From  Jun Hui Foong : Can get negative :’)
+13:30:47	 From  NICHOLAS LUM YE HAN . : nvm lets just do well for our next one guys :>
+13:30:55	 From  BOEY JING HENG TERENCE . : ^
+13:30:58	 From  TAN CI EN, ANNE . : fbsdfdfjd the only logical solution I see to this involves a withdrawal form from this module 
+13:31:02	 From  AIDIL IRFAN BIN AZAM . : jiayou guys
+13:31:03	 From  Jun Hui Foong : LOL
+13:31:04	 From  Leow Yong Zheng : sets in the city
+13:31:11	 From  AIDIL IRFAN BIN AZAM . : ^ pffftttt
+13:31:15	 From  HUN YEW KWANG, BRIAN . : LOL
+13:31:39	 From  YAO YUJING . : ..
+13:31:40	 From  LEE KAI XUAN . : all integers
+13:32:01	 From  Amos :) : 1,2,3,4,5
+13:32:02	 From  Leow Yong Zheng : 2
+13:32:13	 From  MUHAMMAD SADIQ BIN ISNIN . : 2
+13:32:14	 From  SEAH YUAN SHENGH . : 3 - 2
+13:32:16	 From  Leow Yong Zheng : 3 5 2 and -2
+13:32:17	 From  MUHAMMAD SADIQ BIN ISNIN . : 3-2
+13:32:17	 From  nic : -2
+13:32:18	 From  LEE KAI XUAN . : 5 - 3 = 23 - 2 = 1
+13:32:18	 From  Jing Yong Ng : 3,5,2,-2
+13:32:21	 From  LEE KAI XUAN . : all integers differ by 1
+13:32:24	 From  SEAH YUAN SHENGH . : 1 - 2 
+13:32:24	 From  MUHAMMAD SADIQ BIN ISNIN . : -2
+13:32:25	 From  SEAH YUAN SHENGH . : -1
+13:32:29	 From  nic : -5
+13:32:31	 From  NIKOS WEE YI ZHONG . : 3,5,-2,2,{}
+13:32:31	 From  YIP HOU LIANG . : -1,1,2,3,5
+13:32:32	 From  ESCABAS JAMES BALDOS . : {},3,5,2,-2
+13:32:34	 From  Jing Yong Ng : 0
+13:32:40	 From  Amos :) : whoops
+13:33:06	 From  Xian Fu Lee : 2, 1 , 3, ,-1
+13:34:01	 From  Leow Yong Zheng : no answer
+13:34:01	 From  CHUA YING WEI, DEXTER . : Yes
+13:34:02	 From  nic : yes
+13:34:04	 From  JASMIN YAP YI . : yes
+13:34:06	 From  ZURIEL NICHOLAS CHING FEI . : yes
+13:34:07	 From  CHONG WEI BING NICHOLAS . : cant tell
+13:34:08	 From  Xian Fu Lee : yes
+13:34:08	 From  YIP HOU LIANG . : yes
+13:34:09	 From  CHAN SI EN IVAN . : infinite loop
+13:34:10	 From  Bernard Lee : yes
+13:34:10	 From  Jub : yes
+13:34:12	 From  Jing Yong Ng : paradox
+13:34:14	 From  ZURIEL NICHOLAS CHING FEI . : no
+13:34:14	 From  ALARIC TANG MING KUN . : yes
+13:34:15	 From  ZURIEL NICHOLAS CHING FEI . : no
+13:34:18	 From  CHONG WEI BING NICHOLAS . : if he does then the proposition is a paradox
+13:34:20	 From  Leow Yong Zheng : always false
+13:34:20	 From  Xian Fu Lee : yes and no
+13:34:21	 From  KOH HUAN YIN . : its a trap
+13:34:22	 From  CHAM ZHENG HAN, DONOVAN . : contingency
+13:34:22	 From  YAO YUJING . : ...
+13:34:24	 From  ZURIEL NICHOLAS CHING FEI . : wat
+13:34:24	 From  YAO YUJING . : wad
+13:34:25	 From  Jub : If he shaves himself, he shaves himselfIf he doesn't shaves himself, he will shave himself
+13:34:26	 From  YAO YUJING . : gggg
+13:34:26	 From  Jub : LOL
+13:34:26	 From  Jing Yong Ng : don't answer
+13:34:27	 From  ONG ZE QUAN . : Recursion
+13:34:28	 From  YAO YUJING . : im lost
+13:34:29	 From  Edwin Nyeow : w
+13:34:29	 From  SEAH YUAN SHENGH . : bamboozled
+13:34:30	 From  Edwin Nyeow : t
+13:34:30	 From  Edwin Nyeow : g
+13:34:32	 From  JAS PANG ZE XIN . : I love math
+13:34:32	 From  ONG ZE QUAN . : f
+13:34:33	 From  LOW WEI YANG . : what
+13:34:36	 From  NG ZHENG HAN . : what the.... just went on
+13:34:38	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : like Pinocchio Paradox
+13:34:39	 From  JASMIN YAP YI . : someone shaves him for him done
+13:34:40	 From  Edwin Nyeow : kill me pls
+13:34:41	 From  CHONG FU MIN . : she sells sea shells 
+13:34:44	 From  YAO YUJING . : he shave so don shave so shave
+13:34:46	 From  Leow Yong Zheng : SHAVED AND NOT SHAVED
+13:34:46	 From  Bernard Lee : no answer
+13:34:47	 From  GOU HANG . : if he do then he should do]
+13:34:55	 From  KOH HUAN YIN . : to shave or not to shave
+13:34:58	 From  GOU HANG . : if he should do  he do 
+13:35:01	 From  CHONG WEI BING NICHOLAS . : string theory
+13:35:33	 From  DYLAN MICHAEL OGLE . : Error: Python could not find end of loop
+13:35:39	 From  YAO YUJING . : introduction? 
+13:35:46	 From  SEAH YUAN SHENGH . : nah python wont even tell u that 
+13:35:49	 From  Jub : I love math
+13:35:55	 From  SEAH YUAN SHENGH . : it just keeps running and running lol
+13:35:55	 From  DYLAN MICHAEL OGLE . : It'll just hang
+13:35:56	 From  DYLAN MICHAEL OGLE . : lol
+13:36:09	 From  ANG WEI HERNG . : brb I go eat paracetamol
+13:36:36	 From  SEAH YUAN SHENGH . : ah the classic this statement is false paradox
+13:36:42	 From  ALARIC TANG MING KUN . : neither
+13:36:44	 From  GOU HANG . : contract already
+13:36:48	 From  Leow Yong Zheng : we can't conclude
+13:36:50	 From  YAO YUJING . : not knave and not knight
+13:36:53	 From  CHONG WEI BING NICHOLAS . : he is a knava
+13:36:54	 From  ALARIC TANG MING KUN . : cannot conclue
+13:37:02	 From  YAO YUJING . : cant be any
+13:37:09	 From  TAN HUI YANG . : double job
+13:37:14	 From  CHONG WEI BING NICHOLAS . : sus
+13:37:19	 From  DYLAN MICHAEL OGLE . : I proclaim thee are a Knight, AND a Knave
+13:37:24	 From  Leow Yong Zheng : he is an impostor
+13:37:26	 From  SEAH YUAN SHENGH . : ship of theseus
+13:37:27	 From  HUN YEW KWANG, BRIAN . : LOL
+13:37:31	 From  GOU HANG . : among us
+13:37:33	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : If Pinocchio says " My nose will grow now". Will it grow?
+13:37:35	 From  GOU HANG . : -.-
+13:37:51	 From  KOH HUAN YIN . : you are now a knagt
+13:38:00	 From  ALARIC TANG MING KUN . : Nice
+13:38:18	 From  RYAN CHEW KENG YANG . : Cannot brain alr
+13:43:01	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : A box that has another box inside and it is empty
+13:43:09	 From  YEO YUE LIN, MATHEW . : pretty sure that's a theta 
+13:43:13	 From  KHO WEN JIE . : ∅ = {}
+13:43:14	 From  CHAM ZHENG HAN, DONOVAN . : so its the same as the paradox just now
+13:43:19	 From  KHO WEN JIE . : ∅ =/= {∅}
+13:43:20	 From  LOW WEI YANG . : u mean null
+13:43:24	 From  LOW WEI YANG . : that's symbol for null
+13:43:47	 From  NG JUN KIAT . : a collection of an empty collection
+13:44:48	 From  CHONG WEI BING NICHOLAS . : null is nothing, which is not the same as something that has nothing
+13:44:55	 From  YIP HOU LIANG . : hi, can one element be a proper subset of a set that contains that element or must it be a set
+13:49:01	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : So (a,b) is a subset of (a,b,c,d)     (a,b) is a proper subset of (a,b,c,d)also?
+13:49:12	 From  AIDIL IRFAN BIN AZAM . : yes
+13:49:13	 From  SEAH YUAN SHENGH . : yes
+13:49:30	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : oo
+13:50:02	 From  BRYAN ONG MING EN . : so then…when do you use a proper subset?
+13:50:19	 From  LOW WEI YANG . : when the set is  a subset but not equal
+13:50:52	 From  BRYAN ONG MING EN . : ohhh
+13:51:02	 From  KOH HUAN YIN . : vegans
+13:51:11	 From  CHAM ZHENG HAN, DONOVAN . : eunos vegan burger
+13:51:19	 From  KOH HUAN YIN . : oh
+13:51:29	 From  KOH HUAN YIN . : I know that place in eunos
+13:51:44	 From  CHAM ZHENG HAN, DONOVAN . : quite nice if u are vegan
+13:51:44	 From  DYLAN MICHAEL OGLE . : Guys what is the second one
+13:51:46	 From  DYLAN MICHAEL OGLE . : lmao
+13:54:28	 From  JASMIN YAP YI . : Power set = all of the items in the set and all possible combinations of sets for those items including the empty set
+13:54:49	 From  SEAH YUAN SHENGH . : basically all the subsets that u can get from the set
+13:55:07	 From  SHAWN LEMUEL EVORA DABI . : can a set without a null be part of a power set?
+13:55:16	 From  SEAH YUAN SHENGH . : nope
+13:55:29	 From  SEAH YUAN SHENGH . : null set is a subset of every set
+13:55:47	 From  SHAWN LEMUEL EVORA DABI . : so null set naturally exists in all sets?
+13:55:51	 From  JASMIN YAP YI . : yes
+13:55:54	 From  REN JIAQI . : 2^4 but there's 15 in the power set?
+13:55:55	 From  SHAWN LEMUEL EVORA DABI . : i see thanks!
+13:55:55	 From  LIM HUAI FU . : she missing {2,1,3} right?
+13:56:03	 From  CHAM ZHENG HAN, DONOVAN . : yes
+13:56:06	 From  nic : yups
+13:56:09	 From  JASMIN YAP YI . : ye
+13:56:33	 From  NIKOS WEE YI ZHONG . : 1 2 3?
+13:56:37	 From  GOU HANG . : p c means subset or proper subset
+13:56:43	 From  SEAH YUAN SHENGH . : both
+13:57:10	 From  Jing Yong Ng : p means power
+13:58:07	 From  SUHAIMI BIN ROSLAN . : I'm waiting for someone to start their question with can I ask..? and she says no
+14:02:38	 From  LIM JIA JIN, RANDALL . : 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+14:02:45	 From  Leow Yong Zheng : wtf
+14:02:49	 From  JAS PANG ZE XIN . : wtf
+14:03:06	 From  GOU HANG . : what is invert u means?
+14:03:12	 From  SEAH YUAN SHENGH . : intersect
+14:03:13	 From  Leow Yong Zheng : intersect
+14:07:07	 From  LIM JIA JIN, RANDALL . : 000
+14:07:21	 From  KHO WEN JIE . : u ok anot randall
+14:07:24	 From  Zhang Zeyu : ?
+14:07:27	 From  KHO WEN JIE . : study binary till liddat
+14:08:04	 From  LIM JIA JIN, RANDALL . : .
+14:08:33	 From  Zhang Zeyu : Disjunctive syllogism
+14:25:05	 From  Jing Yong Ng : whats the code?
+14:25:10	 From  LEE KAI XUAN . : 25692288
+14:26:56	 From  TAN XU MEI CLAUDIA . : how do I get in to key in the code again?
+14:27:06	 From  LIM JIN TAO BENJAMIN . : https://learningcatalytics.com/class_sessions/25692288
+14:27:25	 From  KOH HUAN YIN . : thanks guys :D
+14:27:34	 From  TAN XU MEI CLAUDIA . : thank you!
+14:30:25	 From  GOU HANG . : just now f1 is coorect right
+14:30:33	 From  KHO WEN JIE . : f1 is no
+14:30:36	 From  KHO WEN JIE . : I think?
+14:30:40	 From  KHO WEN JIE . : No, No, Yes
+14:30:46	 From  SEAH YUAN SHENGH . : nope f1 is a no
+14:30:55	 From  GOU HANG . : because 2a in 1 same b 
+14:30:59	 From  GOU HANG . : so it is not true?
+14:31:22	 From  YEO YUE LIN, MATHEW . : function everything has unique values
+14:31:36	 From  SUHAIMI BIN ROSLAN . : NOT unique values
+14:31:45	 From  Zhang Zeyu : No, not unique values, just one value for each input
+14:32:26	 From  SUHAIMI BIN ROSLAN . : every element in the 'function' set must have one mapping only. it can be the same value.
+14:32:40	 From  KHO WEN JIE . : A {1,2} B{1,2,3}
+14:32:47	 From  YEO YUE LIN, MATHEW . : got it thx
+14:32:48	 From  KHO WEN JIE . : A is proper subset of B but A is also subset of B
+14:32:51	 From  KHO WEN JIE . : is it?
+14:32:59	 From  Zhang Zeyu : yeboi
+14:33:11	 From  KHO WEN JIE . : trying to differentiate wtf is the difference, my brain wew
+14:34:06	 From  Zhang Zeyu : proper subsets are just subsets that are not equal
+14:34:35	 From  KOH HUAN YIN . : difference between ?
+14:36:51	 From  KHO WEN JIE . : btwn proper subset and subset
+14:38:48	 From  LEE KAI XUAN . : A proper subset of A is a subset of A that is not equal to A
+14:41:28	 From  Zhang Zeyu : I love kai xuan
+14:44:27	 From  LEE KAI XUAN . : ._.
+14:44:38	 From  Zhang Zeyu : <3
+14:44:40	 From  MUHAMMAD SUHAIL BIN SALIMUDEEN . : what time are we starting again
+14:44:44	 From  LEE KAI XUAN . : :50
+14:46:25	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : wait i forgot.. 6 is true??4
+14:46:35	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : 6 is true?
+14:46:45	 From  CHUA SHENG YU . : false
+14:46:46	 From  CHUA YING WEI, DEXTER . : False
+14:46:52	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : ok thx 
+14:47:13	 From  SEAH YUAN SHENGH . : only 1,3,5 is true?
+14:47:22	 From  CHUA SHENG YU . : yes
+14:47:29	 From  SEAH YUAN SHENGH . : ok thanks
+14:48:37	 From  CARLTON ANTHONI FOO . : prof, youre not recording
+14:49:25	 From  Adam : in 1min
+14:49:33	 From  KOH HUAN YIN . : 5. is true or false ah
+14:49:40	 From  SEAH YUAN SHENGH . : 1,3,5 are true
+14:49:41	 From  MOHAMED ASIF S/O K A AMANULLAH . : true
+14:49:43	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : i think true
+14:49:58	 From  KOH HUAN YIN . : thanks YS :D
+14:50:03	 From  SEAH YUAN SHENGH . : no prob
+14:56:25	 From  Bernard Lee : what the code
+14:56:26	 From  LIM JIN TAO BENJAMIN . : https://learningcatalytics.com/class_sessions/77449601
+14:56:28	 From  CHAM ZHENG HAN, DONOVAN . : 77449601
+14:56:32	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : 77449601
+14:56:41	 From  KOH HUAN YIN . : https://learningcatalytics.com/class_sessions/77449601
+15:00:08	 From  KHO WEN JIE . : have we seen example of f(A)
+15:00:11	 From  KHO WEN JIE . : f(Domain)
+15:00:16	 From  AIDIL IRFAN BIN AZAM . : range
+15:00:23	 From  KHO WEN JIE . : ohhhh
+15:01:11	 From  SUHAIMI BIN ROSLAN . : first time they give score
+15:02:15	 From  SEAH YUAN SHENGH . : graded uh :O
+15:02:34	 From  LOW WEI YANG . : it gives the badge
+15:02:35	 From  BRYAN ONG MING EN . : it is all graded if im not wrong, just really really low
+15:02:48	 From  ALOYSIUS YEO WEI JIE . : Badge collector
+15:02:58	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : i need every percent can collect 
+15:03:07	 From  KHO WEN JIE . : 5.0/5.0
+15:03:07	 From  DARREN LIM QIN YI . : ^
+15:08:03	 From  Adam : omg what is this help
+15:08:21	 From  KHO WEN JIE . : lol slowly combining proposition logic + predicate + sets + functions
+15:08:27	 From  LOW WEI YANG . : these are just names for different functions
+15:08:30	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : all still definitions
+15:08:34	 From  SEAH YUAN SHENGH . : still got relations and graph leh
+15:08:43	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : injective, surjective type of functions
+15:09:57	 From  SUHAIMI BIN ROSLAN . : slowly guys, don't stress
+15:10:02	 From  Leow Yong Zheng : injection -- images are uniquesurjection -- all elements in B have a preimage
+15:10:15	 From  KHO WEN JIE . : haven't absorb the previous slide's equation
+15:10:40	 From  GOU HANG . : it is at least not a for sujection
+15:11:46	 From  JASMIN YAP YI . : questioning everything
+15:11:54	 From  Leow Yong Zheng : bijection -- injection + surjection
+15:11:55	 From  DYLAN MICHAEL OGLE . : pff
+15:12:06	 From  KHO WEN JIE . : injective, 1 image can only have 1 preimage... surjective, 1 image can have many preimage... bijection, 1 image MUST have ONLY 1 preimage
+15:12:08	 From  KHO WEN JIE . : wot
+15:12:10	 From  SEAH YUAN SHENGH . : questioning my life choice of being here lol
+15:12:40	 From  KHO WEN JIE . : injective, image may or may not have preimage right
+15:12:45	 From  Leow Yong Zheng : yes
+15:13:06	 From  LIM HUAI FU . : gonna inject myself instead liao
+15:13:14	 From  KHO WEN JIE . : STD
+15:13:44	 From  DYLAN MICHAEL OGLE . : Surjective Transmitted?
+15:13:54	 From  Leow Yong Zheng : transmission by sets
+15:18:45	 From  DYLAN MICHAEL OGLE . : *1002 flashbacks*
+15:20:07	 From  Leow Yong Zheng : "ontological argument for the existence of God"
+15:20:21	 From  KOH HUAN YIN . : lol
+15:20:47	 From  KOH HUAN YIN . : shit hes the dude that invented complex numbers
+15:21:15	 From  ur mum : ah the source of my suffering
+15:21:19	 From  ALARIC TANG MING KUN . : Someone noes about maths history
+15:21:40	 From  KOH HUAN YIN . : i see cartesian I ptsd
+15:21:41	 From  ALOYSIUS CHONG JUN FENG . : not really
+15:22:08	 From  DYLAN MICHAEL OGLE . : 17th century: "Wants to invent numbers with philosophy"21st Century: "Ends up being the father of programming languages and advanced mathematics"
+15:22:15	 From  Leow Yong Zheng : no issues with audio, but your facecam sometimes flickers
+15:23:41	 From  MUHAMMAD NURHAKIM BIN MOHD RAZALEE . : what is the code
+15:23:44	 From  LIM JIN TAO BENJAMIN . : https://learningcatalytics.com/class_sessions/29096116
+15:23:55	 From  Jun Hui Foong : 29096116
+15:24:09	 From  GOU HANG . : why always so lagging
+15:24:11	 From  LOW WEI YANG . : 29096116
+15:24:22	 From  KHO WEN JIE . : go ur learning catalytics, ur below shld have Active Session
+15:24:28	 From  JASMIN YAP YI . : you have the window open, you can just refresh and see the open sessions below where you enter the id
+15:24:30	 From  KHO WEN JIE . : without looking at what session
+15:24:35	 From  Ng Jing Fang : ^
+15:25:06	 From  DYLAN MICHAEL OGLE . : Life hacks that actually work
+15:25:47	 From  GOU HANG . : last time I try and it refresh for 1 + mins
+15:27:38	 From  DYLAN MICHAEL OGLE . : This is looking a lot like a hash cracking dictionary...
+15:27:49	 From  Ng Jing Fang : {Alice,A} ?
+15:28:00	 From  SEAH YUAN SHENGH . : wouldn't a hash cracking dictionary have a bunch of different things?
+15:28:02	 From  SEAH YUAN SHENGH . : words*
+15:28:10	 From  DYLAN MICHAEL OGLE . : Depends how focused the target is
+15:28:14	 From  SUHAIMI BIN ROSLAN . : curly brackets notates a set, not an ordered pair
+15:28:22	 From  SUHAIMI BIN ROSLAN . : you must use (Alice,A)
+15:28:30	 From  CHAN SI EN IVAN . : is null an element
+15:28:44	 From  Leow Yong Zheng : ordered pair is a special kind of tuple
+15:28:49	 From  Leow Yong Zheng : tuple have round braket
+15:28:52	 From  Ng Jing Fang : Oooo okaee
+15:29:13	 From  MUHAMMAD NAZRI BIN SAPIAH . : can write (A,Alice) instead of (Alice,A) ?
+15:29:19	 From  SEAH YUAN SHENGH . : no
+15:29:20	 From  TAN WEI LUN NICKIE . : no
+15:29:21	 From  SEAH YUAN SHENGH . : ordered pair
+15:29:25	 From  SEAH YUAN SHENGH . : must be alice first
+15:29:30	 From  Alfred Pang : A then B?
+15:29:33	 From  Leow Yong Zheng : in tuples the order matters
+15:29:34	 From  SEAH YUAN SHENGH . : yeah
+15:29:38	 From  YANG XIAO . : Ax B so A first?
+15:29:39	 From  MUHAMMAD NAZRI BIN SAPIAH . : ok noted thanks
+15:29:40	 From  Leow Yong Zheng : in sets the order does not matter
+15:29:41	 From  SEAH YUAN SHENGH . : A x B is A first then B
+15:29:47	 From  SEAH YUAN SHENGH . : B x A then is B first then A
+15:29:52	 From  Alfred Pang : alright
+15:32:22	 From  DYLAN MICHAEL OGLE . : 1005:GG
+15:32:22	 From  Ng Jing Fang : no need the "" right?
+15:32:24	 From  DYLAN MICHAEL OGLE . : bruh
+15:32:36	 From  KOH HUAN YIN . : we not in 1002
+15:32:39	 From  Alfred Pang : so Donna,F can be the example?
+15:32:44	 From  AIDIL IRFAN BIN AZAM . : yes
+15:32:45	 From  SEAH YUAN SHENGH . : can also
+15:32:46	 From  QUEK TIAN CHENG . : yea
+15:32:46	 From  ASHIQ KAREEM : ye
+15:32:46	 From  WONG YONG HAN . : Karin said don't need
+15:33:01	 From  Ng Jing Fang : thanks :3
+15:33:44	 From  SUHAIMI BIN ROSLAN . : a lot of definitions today..
+15:33:53	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : hope all is in the LMS
+15:34:08	 From  QUEK TIAN CHENG . : She just uploaded functions
+15:34:17	 From  MUHAMMAD ABDURRAHEEM BIN ABDUL HAMID . : ok nice
+15:34:24	 From  QUEK TIAN CHENG . : But I think quite last min lok
+15:34:26	 From  QUEK TIAN CHENG . : lol
+15:36:30	 From  KHO WEN JIE . : 78980570
+15:36:37	 From  CHAM ZHENG HAN, DONOVAN . : https://learningcatalytics.com/class_sessions/78980570
+15:39:25	 From  ASHIQ KAREEM : is {(0,a),(0,a),(0,a)} a relation?
+15:39:36	 From  SEAH YUAN SHENGH . : should be
+15:40:25	 From  CHONG WEI BING NICHOLAS . : I thought { } will not have duplicated elements
+15:40:32	 From  CHONG WEI BING NICHOLAS . : not sure bout this 
+15:40:33	 From  ALARIC TANG MING KUN . : yah dh
+15:40:38	 From  SEAH YUAN SHENGH . : duplicated elements don't matter wot in a set
+15:40:40	 From  ALARIC TANG MING KUN . : I thought dh
+15:40:59	 From  SEAH YUAN SHENGH . : so actually {(0,a),(0,a),(0,a)} = {(0,a)} wot no meh
+15:41:05	 From  KOH HUAN YIN . : yeap
+15:41:13	 From  ALARIC TANG MING KUN . : yea it's like that
+15:41:14	 From  KOH HUAN YIN . : still defined as 1 element
+15:41:16	 From  Leow Yong Zheng : can you do a cartesian product of sets that have repeated elements
+15:41:31	 From  SEAH YUAN SHENGH . : just ignore the repeated elements no?
+15:41:33	 From  LEE KAI XUAN . : yup, coz the domain and co-domain are 2 different things
+15:41:34	 From  SEAH YUAN SHENGH . : its the same set anyways
+15:41:55	 From  KOH HUAN YIN . : what is the square
+15:42:02	 From  KOH HUAN YIN . : why got circle haha
+15:42:10	 From  SEAH YUAN SHENGH . : what square?
+15:42:12	 From  SEAH YUAN SHENGH . : what circle
+15:42:13	 From  Nicholas Ooi : I think circle means with itself
+15:42:14	 From  JAS PANG ZE XIN . : (3,3)
+15:42:20	 From  KOH HUAN YIN . : oo
+15:42:38	 From  SUHAIMI BIN ROSLAN . : a way for drawing a relation, each arrow represents a tuple
+15:43:47	 From  KOH HUAN YIN . : just a subset 
+15:44:05	 From  Alfred Pang : never put full
+15:44:13	 From  Nicholas Ooi : so (1, b) is also another relation?
+15:44:17	 From  Leow Yong Zheng : subset
+15:44:20	 From  Leow Yong Zheng : not proper subset
+15:44:30	 From  CHONG FU MIN . : cartesian product means tuple elements?
+15:44:35	 From  Nicholas Ooi : (1, b) is another subset?
+15:44:38	 From  ALARIC TANG MING KUN . : the set itself is the subset of itself
+15:44:47	 From  CHAM ZHENG HAN, DONOVAN . : hey guyswho did tutorial already
+15:44:57	 From  CHAM ZHENG HAN, DONOVAN . : question 7 in the tutorial is to prove?
+15:45:01	 From  SUHAIMI BIN ROSLAN . : you must indicate {(1,b)}
+15:45:49	 From  Alfred Pang : so a subset = relation right?
+15:45:49	 From  LIM JIN TAO BENJAMIN . : so anything in P(A X B)? 
+15:45:56	 From  SEAH YUAN SHENGH . : yeah
+15:45:58	 From  SEAH YUAN SHENGH . : basically
+15:46:00	 From  AIDIL IRFAN BIN AZAM . : subset of cartesian product
+15:46:04	 From  AIDIL IRFAN BIN AZAM . : = relation
+15:46:21	 From  Alfred Pang : alright
+15:46:55	 From  CHONG WEI BING NICHOLAS . : so if we evaluate the cardinality of the subset of cartesian product {(0,a),(0,a)} we still count as 2?
+15:48:30	 From  Leow Yong Zheng : {(0,a)} and {(0,a),(0,a)} are equivalent
+15:48:35	 From  Leow Yong Zheng : because sets
+15:49:23	 From  Leow Yong Zheng : a divides b -- b is divided by a
+15:49:24	 From  Leow Yong Zheng : english
+15:49:32	 From  CHAN SI EN IVAN . : modulus I think
+15:49:37	 From  CHAM ZHENG HAN, DONOVAN . : a divides b = b is divided by a
+15:49:38	 From  CHAN SI EN IVAN . : b/a mod 0
+15:49:40	 From  CHAM ZHENG HAN, DONOVAN . : b/a
+15:52:32	 From  MUHAMMAD NAZRI BIN SAPIAH . : brother sister
+15:53:28	 From  Nicholas Ooi : r6?
+15:53:35	 From  Nicholas Ooi : wait nvm
+16:06:39	 From  CHAM ZHENG HAN, DONOVAN . : overtime alr
+16:06:52	 From  SEAH YUAN SHENGH . : look forward to cat therapy later 
+16:07:41	 From  Bernard Lee : lol
+16:09:00	 From  Jub : omg
+16:09:04	 From  nic : rip
+16:09:14	 From  SUHAIMI BIN ROSLAN . : mfk
+16:10:15	 From  LIM HUAI FU . : 3hrs is nvr enuf to cram all this...
+16:10:42	 From  Jub : I need buy 1x graphics card for my brain
+16:10:52	 From  RYAN CHEW KENG YANG . : Commit sudoku
+16:10:56	 From  SUHAIMI BIN ROSLAN . : this is getting really ugly
+16:10:57	 From  BRYAN ONG MING EN . : make sure 3090
+16:11:05	 From  KOH JIA CHENG . : inb4 driver issues 
+16:11:43	 From  DYLAN MICHAEL OGLE . : Step 1: get an RTX 3080Step 2: Install CUDA toolkit into your brainStep 3:Driver crash
+16:18:54	 From  GOU HANG . : -.-
+16:19:33	 From  Jing Yong Ng : still have
+16:19:35	 From  Jub : LOL
+16:19:40	 From  Jub : BSOD
+16:19:40	 From  TAN CI EN, ANNE . : so is R5 anti-symmetric?
+16:19:41	 From  SUHAIMI BIN ROSLAN . : prof my mother calling me already
+16:19:43	 From  SUHAIMI BIN ROSLAN . : need to go home
+16:19:52	 From  ONG ZE QUAN . : I am anti symmetric
+16:20:34	 From  LIM HUAI FU . : yes r5 is anti-symmetric
+16:21:15	 From  LIM HUAI FU . : so many terms used today
+16:21:55	 From  LIM JIN TAO BENJAMIN . : wait so what does it mean again
+16:22:02	 From  IAN PEH SHUN WEI . : no idea
+16:22:05	 From  Jeremy Chow : lost
+16:22:07	 From  Jun Hui Foong : F
+16:22:08	 From  ONG ZE QUAN . : i have no idea
+16:22:08	 From  LIM JIN TAO BENJAMIN . : how to answer 
+16:22:09	 From  IAN PEH SHUN WEI . : anyhow pick one
+16:22:11	 From  LIM JIN TAO BENJAMIN . : dont know whats going on
+16:22:11	 From  LOW WEI YANG . : wait what does it mean
+16:22:13	 From  SEAH YUAN SHENGH . : toh
+16:22:14	 From  NICHOLAS LUM YE HAN . : lost too
+16:22:17	 From  KOH JIA CHENG . : brain exe has stopped working
+16:22:17	 From  RYAN CHEW KENG YANG . : How answer sia wtf
+16:22:18	 From  LOW YONG LIN . : gone
+16:22:22	 From  ONG ZE QUAN . : how to skip ?
+16:22:24	 From  Jing Yong Ng : submit empty
+16:22:28	 From  SEAH YUAN SHENGH . : pick everything
+16:22:30	 From  SEAH YUAN SHENGH . : cfm correct
+16:22:45	 From  YANG XIAO . : for every incorrect ans - 1 mark
+16:22:47	 From  YANG XIAO . : XD
+16:22:52	 From  thomas : Marks will be deducted for every incorrect answer
+16:22:53	 From  SEAH YUAN SHENGH . : not if its not graded XD
+16:24:22	 From  DYLAN MICHAEL OGLE . : I think my brain is done cooking
+16:24:27	 From  SEAH YUAN SHENGH . : well done
+16:26:41	 From  KHO WEN JIE . : im lost after antisymmetric.. suddenly dk whr the 1,2 or whatever value that was taken XD
+16:27:00	 From  Nicholas Ooi : *flips table*
+16:27:04	 From  ONG ZE QUAN . : is this art
+16:27:28	 From  GOU HANG . : 4 30 already
+16:27:31	 From  GOU HANG . : 5 still got calss
+16:27:33	 From  GOU HANG . : omg
+16:27:39	 From  nic : do we need to know how to draw these diagrams
+16:27:42	 From  SEAH YUAN SHENGH . : and I 
+16:27:46	 From  SEAH YUAN SHENGH . : am done with life
+16:27:59	 From  CHAM ZHENG HAN, DONOVAN . : okbye
+16:28:33	 From  MOHAMMAD SHAHMIZAN BIN SHAM AFFANDI . : recorded lecture btw
+16:28:37	 From  KHO WEN JIE . : tot this is recorded lol
+16:28:41	 From  KHO WEN JIE . : why do u need to screenshot
+16:28:48	 From  BRYAN ONG MING EN . : easier reference
+16:28:52	 From  QUEK TIAN CHENG . : Own notes ah bro
+16:28:52	 From  SUHAIMI BIN ROSLAN . : ok I ciao first ah shag edi
+16:28:56	 From  QUEK TIAN CHENG . : Easier to refer
+16:29:59	 From  LIM HUAI FU . : please kill that someone who told me those relations...
+16:30:07	 From  SEAH YUAN SHENGH . : too late time alr did that
+16:31:38	 From  DYLAN MICHAEL OGLE . : a
+16:31:58	 From  KOH HUAN YIN . : thank you ma'am?
+16:32:00	 From  KOH HUAN YIN . : lol
+16:32:03	 From  DYLAN MICHAEL OGLE . : Watch the number drain
+16:33:46	 From  IAN PEH SHUN WEI . : does it mean the only possible value is 00 11 and 22?

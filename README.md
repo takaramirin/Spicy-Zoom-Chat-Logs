@@ -11,43 +11,14 @@ If you are a HR personnel researching on a potential candidate from Singapore In
 
 Everyone is welcomed to fork and share this repository.
 
+#OSCP 
 
+OSCP
 
+#Seah Yuan Shengh
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#SEAH YUAN SHENGH
 
 Seah Yuan Shengh
+
 SEAH YUAN SHENGH

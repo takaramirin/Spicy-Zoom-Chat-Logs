@@ -1,0 +1,219 @@
+15:22:31 From  Adoom  to  Everyone : will our weekly assignments be graded?
+15:24:32 From  TAN XU MEI CLAUDIA .  to  Everyone : because we have back to back lessons
+15:24:34 From  ALARIC TANG MING KUN .  to  Everyone : there are students that end at 3
+15:25:20 From  ALARIC TANG MING KUN .  to  Everyone : thanks prof 
+15:25:26 From  TAN XU MEI CLAUDIA .  to  Everyone : thank you prof, coz the class might overrun
+15:25:59 From  LIM CHENG LIANG .  to  Everyone : 1006 
+15:25:59 From  CHAN SI EN IVAN .  to  Everyone : 1006
+15:26:01 From  ALARIC TANG MING KUN .  to  Everyone : ICT organisations
+15:26:02 From  KOH HUAN YIN .  to  Everyone : 1006
+15:26:11 From  TAN CI EN, ANNE .  to  Everyone : ICT in organisatioj
+15:26:19 From  TAN CI EN, ANNE .  to  Everyone : *organisation
+15:27:02 From  ALARIC TANG MING KUN .  to  Everyone : When will it be given?
+15:27:35 From  ALARIC TANG MING KUN .  to  Everyone : ok thanks prof
+15:27:55 From  SEAH YUAN SHENGH .  to  Everyone : failure rate for the mod?
+15:28:17 From  SUHAIMI BIN ROSLAN .  to  Everyone : lol
+15:29:08 From  TAN CI EN, ANNE .  to  Everyone : lol so optimistic
+15:29:17 From  SEAH YUAN SHENGH .  to  Everyone : statistic fallacy
+15:30:42 From  KOH HUAN YIN .  to  Everyone : complex as in imaginary numbers?
+15:30:46 From  LEOW YONG ZHENG .  to  Everyone : yes
+15:30:49 From  SEAH YUAN SHENGH .  to  Everyone : seems like it
+15:32:08 From  LEOW YONG ZHENG .  to  Everyone : "deadforg"
+15:34:04 From  Adoom  to  Everyone : play foosball()
+15:35:27 From  ALARIC TANG MING KUN .  to  Everyone : Will pycharm do the same?
+15:36:18 From  ALARIC TANG MING KUN .  to  Everyone : I see ok :)
+15:36:44 From  KOH HUAN YIN .  to  Everyone : reminds me a bit of jupyter the format
+15:36:51 From  LEOW YONG ZHENG .  to  Everyone : it is jupyter format
+15:37:20 From  LEOW YONG ZHENG .  to  Everyone : just that its google branded and hosted by google instead of local
+15:37:47 From  KOH HUAN YIN .  to  Everyone : ahh I see :o
+15:42:27 From  Donovan Cham  to  Everyone : lost
+15:44:05 From  TAN CI EN, ANNE .  to  Everyone : don worry same I v v lost
+15:44:07 From  LEOW YONG ZHENG .  to  Everyone : I'm not sure if state machine is a good example for object oriented
+15:45:02 From  KHO WEN JIE .  to  Everyone : never used (self) or __<smth>___ before, idk how those works
+15:45:58 From  HENG CHOON YUAN GERALD .  to  Everyone : In the FrogState class redundant?
+15:46:08 From  Donovan Cham  to  Everyone : need to ownself read if no experience using these I think... I also never use b4
+15:46:10 From  LEOW YONG ZHENG .  to  Everyone : But the idea is that Embryo, Tadpole, Adult are all types of "Frog State". They are variations of the same "thing", and they share some behaviour but also vary in some behaviour.
+15:46:16 From  CHANG TSIN JER .  to  Everyone : what is self?
+15:46:24 From  SEAH YUAN SHENGH .  to  Everyone : frog class is constructor yeah?
+15:47:25 From  LEE WEI KANG GEORGE .  to  Everyone : self just refers to the very instance of that class
+15:47:37 From  Donovan Cham  to  Everyone : so its something like oop concepts?
+15:47:39 From  LEOW YONG ZHENG .  to  Everyone : Object Oriented programming style allows you to "auto copy" the code you want while allowing you to define differences as needed on top.
+15:47:43 From  SEAH YUAN SHENGH .  to  Everyone : it is OOP
+15:47:45 From  Donovan Cham  to  Everyone : o
+15:47:54 From  Donovan Cham  to  Everyone : time to read up on oop
+15:48:04 From  SEAH YUAN SHENGH .  to  Everyone : he gonn make us write data struct stuff in oop lol
+15:50:51 From  LEOW YONG ZHENG .  to  Everyone : Python is an easy language to learn but it wasn't really made to handle oo from the ground up, so got some weird unintuitive quirks lol
+15:51:23 From  KOH HUAN YIN .  to  Everyone : yea it's a bit weird in python. But the concept is still there
+15:51:36 From  Donovan Cham  to  Everyone : I think we will get more on this as we move on in the slides
+15:51:49 From  SEAH YUAN SHENGH .  to  Everyone : seems we doing objects instead of nodes and pointers
+15:51:50 From  Donovan Cham  to  Everyone : I see the slides have a lot of info regarding the oop
+15:55:21 From  SUHAIMI BIN ROSLAN .  to  Everyone : long break also can
+15:55:22 From  Donovan Cham  to  Everyone : continue first
+15:55:24 From  Donovan Cham  to  Everyone : then 15min
+15:55:29 From  KHO WEN JIE .  to  Everyone : 15min to eat flies
+15:55:35 From  KAMARULLAH BIN MOHAMAD SALIM .  to  Everyone : continue abit
+15:59:53 From  NCHLS CHNG  to  Everyone : nope prof all is good
+16:01:39 From  red  to  Everyone : instances is also 'objects'?
+16:01:48 From  ALARIC TANG MING KUN .  to  Everyone : yea
+16:03:30 From  Ng Alfred  to  Everyone : the instance must have all the attribute and functions inside?
+16:05:51 From  LEE WEI KANG GEORGE .  to  Everyone : basically it creates a "copy" of the class account
+16:07:40 From  TAN CI EN, ANNE .  to  Everyone : prof can go back to previous slide pls
+16:07:55 From  TAN CI EN, ANNE .  to  Everyone : thank you
+16:07:59 From  red  to  Everyone : would it return error if you only do Account("Cristal")
+16:09:27 From  KOH JIA CHENG .  to  Everyone : why is there a need to include "self" in the constructor? If it is not included, can you still use self to define those attributes?
+16:09:33 From  LEOW YONG ZHENG .  to  Everyone : because Python
+16:10:29 From  red  to  Everyone : the __init__ is autocreated by Python?
+16:10:29 From  KHO WEN JIE .  to  Everyone : ooooooo
+16:10:54 From  IAN PEH SHUN WEI .  to  Everyone : in other word self = return?
+16:10:58 From  LEOW YONG ZHENG .  to  Everyone : when you write __init__ you overwrite the default one that Python provides
+16:11:00 From  Donovan Cham  to  Everyone : __init__ is python way of oop
+16:11:07 From  Donovan Cham  to  Everyone : just like -> or . in c
+16:11:07 From  KOH JIA CHENG .  to  Everyone : I think it's more like "this." in java terms 
+16:11:14 From  Donovan Cham  to  Everyone : ^
+16:11:19 From  SEAH YUAN SHENGH .  to  Everyone : so py has a default constructor also :O
+16:11:21 From  red  to  Everyone : I see, thank you
+16:11:22 From  LEOW YONG ZHENG .  to  Everyone : you need to write it if you need to do any custom set up
+16:12:35 From  ALARIC TANG MING KUN .  to  Everyone : ooo ok thanks prof
+16:12:47 From  red  to  Everyone : thank you prof! clearer now
+16:13:48 From  ALARIC TANG MING KUN .  to  Everyone : Used to save in the instance
+16:14:08 From  LEOW YONG ZHENG .  to  Everyone : Account class can be thought of as a recipe or a general description of what an Account is and what it is supposed to doWhen you construct, you create "one account in particular". This is an Account object aka an instance of Account.
+16:14:29 From  ALARIC TANG MING KUN .  to  Everyone : Save the object w a variable name
+16:15:12 From  yongjian lin  to  Everyone : cristalAccount created with name: cristal, accountNo: Cri123tal, balance 0. Right?
+16:15:18 From  Donovan Cham  to  Everyone : earthquake
+16:15:36 From  SEAH YUAN SHENGH .  to  Everyone : yes
+16:15:52 From  IAN PEH SHUN WEI .  to  Everyone : so to deposit = account.deposit(100)?
+16:15:59 From  KHO WEN JIE .  to  Everyone : no
+16:16:02 From  SEAH YUAN SHENGH .  to  Everyone : nope
+16:16:04 From  Donovan Cham  to  Everyone : no
+16:16:06 From  KHO WEN JIE .  to  Everyone : cristalAccount.deposit(100)
+16:16:16 From  IAN PEH SHUN WEI .  to  Everyone : I see ty
+16:16:20 From  LEOW YONG ZHENG .  to  Everyone : you reference which account it is and then tell that account in particular to deposit
+16:16:34 From  yongjian lin  to  Everyone : thank you
+16:16:39 From  Donovan Cham  to  Everyone : I think its like just now the frog right? test.eat()
+16:16:46 From  SEAH YUAN SHENGH .  to  Everyone : yup
+16:16:57 From  Donovan Cham  to  Everyone : ook starting to catch balls
+16:16:58 From  Donovan Cham  to  Everyone : thanks
+16:17:03 From  SEAH YUAN SHENGH .  to  Everyone : np
+16:21:37 From  Donovan Cham  to  Everyone : break?
+16:21:40 From  HENG CHOON YUAN GERALD .  to  Everyone : Can we go back to the frog example
+16:21:41 From  ALARIC TANG MING KUN .  to  Everyone : think is ok
+16:21:47 From  HENG CHOON YUAN GERALD .  to  Everyone : I just want to see the Frog class
+16:22:02 From  Jub  to  Everyone : for the lecture 1 colab exercises, is it alr done as an example or we need to edit it?
+16:22:03 From  HENG CHOON YUAN GERALD .  to  Everyone : okai
+16:22:17 From  Ng Alfred  to  Everyone : Does cristalAccount.accountNo work?
+16:22:55 From  JASMIN YAP YI .  to  Everyone : yes it should
+16:23:29 From  LEOW YONG ZHENG .  to  Everyone : yes
+16:23:32 From  LEOW YONG ZHENG .  to  Everyone : but got some quirks
+16:24:38 From  EDDIE TAN DEJUN .  to  Everyone : I do not need to pass in the self argument when calling the function?
+16:24:54 From  LEOW YONG ZHENG .  to  Everyone : no
+16:25:07 From  LEOW YONG ZHENG .  to  Everyone : Python inserts it
+16:25:57 From  EDDIE TAN DEJUN .  to  Everyone : When I define the function in the class, I need to add in the self parameter in the function?
+16:26:32 From  LEOW YONG ZHENG .  to  Everyone : only if you intend it to handle data associated with specific instances
+16:27:20 From  KHO WEN JIE .  to  Everyone : @jub just edit the #todo
+16:27:27 From  KHO WEN JIE .  to  Everyone : the rest is the flow, to test if it works
+16:30:45 From  EDDIE TAN DEJUN .  to  Everyone : Alright thanks!
+16:34:28 From  KHO WEN JIE .  to  Everyone : we will be using colab to practice, hackerrun to submit our weekly lab submission that is used in 10% lab grade?
+16:34:50 From  KHO WEN JIE .  to  Everyone : opps hackerrank
+16:35:08 From  ZURIEL NICHOLAS CHING FEI .  to  Everyone : is the week 0 graded for hacker run ?
+16:35:14 From  LEOW YONG ZHENG .  to  Everyone : no
+16:35:23 From  ZURIEL NICHOLAS CHING FEI .  to  Everyone : tnx
+16:37:06 From  TAN CI EN, ANNE .  to  Everyone : hackerrank create w school email or personal email?
+16:37:22 From  TAN CI EN, ANNE .  to  Everyone : thanks
+16:44:01 From  IAN PEH SHUN WEI .  to  Everyone : what happen if u put return?
+16:44:06 From  IAN PEH SHUN WEI .  to  Everyone : print
+16:45:14 From  IAN PEH SHUN WEI .  to  Everyone : oh okay thanks
+16:52:05 From  ALOYSIUS CHONG JUN FENG .  to  Everyone : abit fast
+16:52:05 From  reuben  to  Everyone : yes can follow
+16:52:11 From  NCHLS CHNG  to  Everyone : yes prof can follow
+16:57:12 From  reuben  to  Everyone : can u typecast the self.salary?
+16:57:22 From  Donovan Cham  to  Everyone : self.name = nameself.salary = salaryprint(self.name + " has joined the company")
+16:57:22 From  reuben  to  Everyone : cause when initialising u put "4000"
+16:57:27 From  reuben  to  Everyone : can change to int
+17:06:26 From  WONG YONG HAN .  to  Everyone : for Destructor Example is it we just have to print out the name?
+17:06:31 From  KHO WEN JIE .  to  Everyone : the first example, last function __del__, print out name of instance destroyed, isit suppose to print grasshopper/ant or employee1/employee2 ?
+17:11:34 From  KHO WEN JIE .  to  Everyone : employee1/employee2 are called object?
+17:12:02 From  LEOW YONG ZHENG .  to  Everyone : employee1/employee2 are variables that reference Account objects
+17:12:03 From  NCHLS CHNG  to  Everyone : yes , object/instance
+17:12:08 From  Edwin Nyeow  to  Everyone : can I delete ant instead of grasshopper?
+17:12:28 From  KHO WEN JIE .  to  Everyone : just del employee2 @edwin
+17:12:44 From  Edwin Nyeow  to  Everyone : thanks
+17:12:53 From  KHO WEN JIE .  to  Everyone : what if want print the object name iinstead
+17:12:57 From  KHO WEN JIE .  to  Everyone : like employee1
+17:13:00 From  LEOW YONG ZHENG .  to  Everyone : you cannot
+17:13:08 From  KHO WEN JIE .  to  Everyone : ohhh
+17:13:21 From  LEOW YONG ZHENG .  to  Everyone : employee1 is just the name of a variable that is holding a reference to the object
+17:13:44 From  LEOW YONG ZHENG .  to  Everyone : the object itself does not know how you are accessing it
+17:14:03 From  KHO WEN JIE .  to  Everyone : aahhh I see
+17:16:40 From  Donovan Cham  to  Everyone : how to access the colab?
+17:16:50 From  SEAH YUAN SHENGH .  to  Everyone : xsite have i think
+17:16:53 From  LEOW YONG ZHENG .  to  Everyone : link on lms
+17:16:55 From  KHO WEN JIE .  to  Everyone : https://colab.research.google.com/
+17:27:22 From  MOHAMMAD SHAHMIZAN BIN SHAM AFFANDI .  to  Everyone : like Minecraft seed?
+17:27:26 From  LEOW YONG ZHENG .  to  Everyone : its how PSEUDO random number generators work yes
+17:27:27 From  Red  to  Everyone : minecraft
+17:27:30 From  KHO WEN JIE .  to  Everyone : LOL
+17:27:32 From  HUN YEW KWANG, BRIAN .  to  Everyone : yes cus the seed used toe generate the numbers is the same
+17:27:37 From  MOHAMMAD SHAHMIZAN BIN SHAM AFFANDI .  to  Everyone : right, makes sense
+17:27:44 From  Ng Alfred  to  Everyone : pseudorandom?
+17:28:09 From  LEE WEI KANG GEORGE .  to  Everyone : random numbers for computers can never be truly random in a sense
+17:28:34 From  TAN CI EN, ANNE .  to  Everyone : wait how he get this next set of random numbers
+17:28:59 From  KAMARULLAH BIN MOHAMAD SALIM .  to  Everyone : comment the seed out
+17:29:05 From  TAN CI EN, ANNE .  to  Everyone : oh
+17:29:08 From  TAN CI EN, ANNE .  to  Everyone : thanks
+17:33:50 From  KOH HUAN YIN .  to  Everyone : undo
+17:34:33 From  KHO WEN JIE .  to  Everyone : for previous one [0 for x in range(Y_SIZE)], this initializes all index to be zero first?
+17:34:46 From  LEOW YONG ZHENG .  to  Everyone : yes
+17:34:55 From  KHO WEN JIE .  to  Everyone : alright thankss
+17:35:39 From  LEOW YONG ZHENG .  to  Everyone : its called generator expression, I think it was in ict1002
+17:37:07 From  Ng Alfred  to  Everyone : how to pop a
+17:37:14 From  SEAH YUAN SHENGH .  to  Everyone : pop c and b first
+17:37:26 From  Ng Alfred  to  Everyone : then push back b and c?
+17:37:39 From  SEAH YUAN SHENGH .  to  Everyone : yup
+17:37:44 From  SEAH YUAN SHENGH .  to  Everyone : u cannot pop a specific item in a stack
+17:37:54 From  LEOW YONG ZHENG .  to  Everyone : you can do that but usually you wouldn't use a stack in this way
+17:38:08 From  SEAH YUAN SHENGH .  to  Everyone : wouldn't really be a stack if u could though :o
+17:41:07 From  TAN CI EN, ANNE .  to  Everyone : so in other words set the counter as -1 at the start ah essentially?
+17:41:17 From  SEAH YUAN SHENGH .  to  Everyone : yup
+17:41:23 From  SEAH YUAN SHENGH .  to  Everyone : -1 index = empty stack
+17:41:39 From  TAN CI EN, ANNE .  to  Everyone : thankss
+17:41:53 From  Red  to  Everyone : why not 0
+17:42:07 From  SEAH YUAN SHENGH .  to  Everyone : cuz 0 is the first element (?)
+17:42:13 From  LEOW YONG ZHENG .  to  Everyone : because then you have to subtract to index the first element
+17:42:23 From  LEOW YONG ZHENG .  to  Everyone : you can use zero but less convenient
+17:43:08 From  TAN CI EN, ANNE .  to  Everyone : if u increment from zero then u will have an extra in the count
+17:43:45 From  TAN CI EN, ANNE .  to  Everyone : or like one more than the number of the items u actually have in the stack
+17:49:40 From  KHO WEN JIE .  to  Everyone : peek(), we can also do print(self.top) ?
+17:49:43 From  NCHLS CHNG  to  Everyone : yes prof
+17:49:55 From  KHO WEN JIE .  to  Everyone : ohh index only
+17:49:57 From  LIM CHENG LIANG .  to  Everyone : are we suppose to write the methods ourself in this module?
+17:50:11 From  LIM CHENG LIANG .  to  Everyone : so we nid to write methods such as push and pop
+17:50:14 From  LEOW YONG ZHENG .  to  Everyone : also self is inside class scope only
+17:50:22 From  SEAH YUAN SHENGH .  to  Everyone : are we doing priority queues?
+17:50:26 From  Adoom  to  Everyone : will we be using python only for this mod?
+17:51:54 From  Donovan Cham  to  Everyone : are you hungry prof?
+17:51:58 From  CHAN SI EN IVAN .  to  Everyone : is there anything we need to submit ?
+17:52:50 From  SEAH YUAN SHENGH .  to  Everyone : i doubt that is going to help too much D:
+17:54:48 From  SUHAIMI BIN ROSLAN .  to  Everyone : ciao prof
+17:54:51 From  NCHLS CHNG  to  Everyone : thank you Prof!
+17:54:53 From  SEAH YUAN SHENGH .  to  Everyone : thanks prof~
+17:54:55 From  KHO WEN JIE .  to  Everyone : ty prof
+17:54:55 From  JESSICA TAN GUANG HUI .  to  Everyone : Thank you prof!!!
+17:54:58 From  Ng Alfred  to  Everyone : ty all
+17:55:00 From  LIM HUAI FU .  to  Everyone : `thanks
+17:55:25 From  NIKOS WEE YI ZHONG .  to  Everyone : will the updated colab for exercise 1 and 2 be uploaded?
+17:55:41 From  NIKOS WEE YI ZHONG .  to  Everyone : that would be great thank you prof
+17:56:10 From  SEAH YUAN SHENGH .  to  Everyone : are subsequent ones time limited as well?
+17:56:45 From  ALARIC TANG MING KUN .  to  Everyone : thanks prof
+17:56:55 From  ZURIEL NICHOLAS CHING FEI .  to  Everyone : quizzes will be asking us to program something ?
+17:57:24 From  SEAH YUAN SHENGH .  to  Everyone : algo analysis?
+17:57:34 From  majinbuu  to  Everyone : gg rip2021
+17:57:54 From  SEAH YUAN SHENGH .  to  Everyone : when u think 2021 is your year but nope only death awaits....
+17:58:03 From  Guan Cong  to  Everyone : The quiz time limit is around how long?
+17:58:20 From  LEOW YONG ZHENG .  to  Everyone : it will say before you start the quiz
+17:59:24 From  SEAH YUAN SHENGH .  to  Everyone : prof we doing only big oh or got theta all?
+17:59:38 From  LIM CHENG LIANG .  to  Everyone : is quiz 2 qns also
+18:00:35 From  SEAH YUAN SHENGH .  to  Everyone : space complexity includes aux mem also right?
+18:01:15 From  LIM CHENG LIANG .  to  Everyone : for stack, why did u start the index from -1
+18:01:35 From  SEAH YUAN SHENGH .  to  Everyone : if O(2n) = O(n) why is O(nlogn) a separate complexity category?
+18:01:56 From  reuben  to  Everyone : prof for the group isit self assign or preassigned
+18:02:29 From  LEOW YONG ZHENG .  to  Everyone : because O(2n) and O(n) are both linearly proportional

@@ -1,0 +1,207 @@
+11:53:06 From  WONG JOON KIAT .  to  Everyone : hello guys!
+12:00:59 From  LIM CHENG LIANG .  to  Everyone : hi prof, isit ok to clarify what you mean by multiplayer game during this lesson
+12:01:07 From  LIM CHENG LIANG .  to  Everyone : such as what type of games are allowed etc
+12:01:34 From  Nisha Jain  to  Everyone : Hi yes I will be clarifying and discussing about it 
+12:01:53 From  ONG ZE QUAN .  to  Everyone : Prof, I was added to wrong team in Github
+12:02:17 From  Hang Gou  to  Everyone : prof I haven't join the slack the qr code expire
+12:03:53 From  Donovan Cham  to  Everyone : prof I don't have the GitHub invitation link for the team repo. Have already added my id into the google sheets since last Friday or so
+12:04:03 From  ALARIC TANG MING KUN .  to  Everyone : Same
+12:09:51 From  NG ZHENG HAN .  to  Everyone : so something like e.g Chess 1 player a turn is that allowed?
+12:10:32 From  NG ZHENG HAN .  to  Everyone : ahh okay understood prof
+12:10:39 From  KHO WEN JIE .  to  Everyone : so turn based multiplayer not allowed?
+12:10:44 From  DYLAN MICHAEL OGLE  to  Everyone : Ok, no networking needed. That's a relief
+12:11:12 From  KOH HUAN YIN .  to  Everyone : basically concurrent playing
+12:11:17 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : so no turn based
+12:11:19 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : ?
+12:11:30 From  Jia Cheng Koh  to  Everyone : turned based multiplayer is still multiplayer tho
+12:11:32 From  KHO WEN JIE .  to  Everyone : :c pokemon online matchmaking isn't multiplayer ;w;
+12:11:34 From  KOH HUAN YIN .  to  Everyone : like chess and tic tac toe?
+12:13:25 From  KHO WEN JIE .  to  Everyone : abolish this project, will be smooth sail and no delays
+12:13:32 From  SEAH YUAN SHENGH .  to  Everyone : ^
+12:13:37 From  Jas Pang  to  Everyone : ^
+12:13:39 From  KAMARULLAH BIN MOHAMAD SALIM .  to  Everyone : ^
+12:13:39 From  HUN YEW KWANG, BRIAN .  to  Everyone : pogchamp
+12:13:41 From  Koh Jia Cheng  to  Everyone : ^
+12:13:42 From  WONG JOON KIAT .  to  Everyone : ^
+12:13:45 From  SEAH YUAN SHENGH .  to  Everyone : BibleThump
+12:13:48 From  KOH HUAN YIN .  to  Everyone : lol
+12:13:56 From  KHO WEN JIE .  to  Everyone : hahaha
+12:14:02 From  SEAH YUAN SHENGH .  to  Everyone : F
+12:14:07 From  WONG JOON KIAT .  to  Everyone : xD
+12:14:19 From  WONG JOON KIAT .  to  Everyone : sorry I don't know what does abolish means
+12:14:22 From  WONG JOON KIAT .  to  Everyone : apologies, prof
+12:15:34 From  ONG ZE QUAN .  to  Everyone : what about wrong team in GitHub
+12:16:01 From  TAN CHIN HOW .  to  Everyone : later got lab?
+12:24:52 From  KHO WEN JIE .  to  Everyone : yes
+12:31:13 From  KEE ZHONG YI .  to  Everyone : Just to clarify, without new if you change one of the strings will both change?
+12:32:33 From  KEE ZHONG YI .  to  Everyone : Ahh, I see. Thanks prof!
+12:35:34 From  KHO WEN JIE .  to  Everyone : so with new, ur creating an object... without new, ur just initializing a variable... variable uses == to compare while object has to use .equal, if ur using == ur only comparing object address
+12:36:51 From  KHO WEN JIE .  to  Everyone : :o
+12:37:32 From  WONG JOON KIAT .  to  Everyone : the current example is to just compare the objects?
+12:37:47 From  WONG JOON KIAT .  to  Everyone : using .equals to compare 2 objects?
+12:37:57 From  KHO WEN JIE .  to  Everyone : objects' content
+12:38:05 From  WONG JOON KIAT .  to  Everyone : ok thanks wen jie!
+12:38:21 From  HUN YEW KWANG, BRIAN .  to  Everyone : so in an ifelse its just if (result == true)?
+12:38:36 From  LEONG JIN KUAN, JOSHUA .  to  Everyone : if there are multiple variables in the content how do we specify the comparison?
+12:38:38 From  WONG JOON KIAT .  to  Everyone : if got use new keyword, will be comparing the objects, instead of just contents?
+12:39:05 From  LEONG JIN KUAN, JOSHUA .  to  Everyone : oh ok
+12:40:30 From  NCHOLAS CHONG  to  Everyone : nope
+12:40:32 From  NCHOLAS CHONG  to  Everyone : all is good
+12:44:19 From  WONG JOON KIAT .  to  Everyone : so .remove will remove the "Puerto Rico" from the array list?
+12:44:20 From  ALARIC TANG MING KUN .  to  Everyone : So it makes multiple arrays?
+12:44:30 From  WONG JOON KIAT .  to  Everyone : thanks prof!
+12:45:46 From  NCHOLAS CHONG  to  Everyone : arraylist is a dynamic array structure where u can dynamically add and remove objects/non primitive data type
+12:46:26 From  ALARIC TANG MING KUN .  to  Everyone : Each object inside is basically an element in the array?
+12:47:38 From  ALARIC TANG MING KUN .  to  Everyone : I see thanks prof
+12:53:15 From  WONG JOON KIAT .  to  Everyone : the input is based on the last entry?
+12:54:32 From  WONG JOON KIAT .  to  Everyone : ok thanks prof!
+12:58:56 From  TAN YI SHENG .  to  Everyone : prof the minu sign in the uml means private right
+12:59:02 From  TAN YI SHENG .  to  Everyone : minus*
+12:59:52 From  WONG JOON KIAT .  to  Everyone : private = accessible within class
+13:00:12 From  WONG JOON KIAT .  to  Everyone : public = accessible outside class? Is it correct?
+13:00:30 From  KOH HUAN YIN .  to  Everyone : do we automatically assume those class and operations return a void type for the UML without signature?
+13:01:36 From  AIDIL IRFAN BIN AZAM  to  Everyone : @joon kiat yes
+13:01:43 From  WONG JOON KIAT .  to  Everyone : ok thanks Irfan!
+13:02:24 From  KOH HUAN YIN .  to  Everyone : ah thank you prof
+13:02:27 From  NCHOLAS CHONG  to  Everyone : @irfan *thumbs up*
+13:02:37 From  Alicia Tan  to  Everyone : @irfan thanks!
+13:03:14 From  WONG JOON KIAT .  to  Everyone : ok prof, noted
+13:16:03 From  ALARIC TANG MING KUN .  to  Everyone : so protected and public is the same?
+13:16:24 From  AIDIL IRFAN BIN AZAM  to  Everyone : protected = within packages
+13:16:38 From  AIDIL IRFAN BIN AZAM  to  Everyone : https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html
+13:16:41 From  AIDIL IRFAN BIN AZAM  to  Everyone : more info here
+13:16:49 From  ALARIC TANG MING KUN .  to  Everyone : oo thanks :)
+13:21:20 From  WONG JOON KIAT .  to  Everyone : a bit blur on static/contant values, prof nisha
+13:21:28 From  WONG JOON KIAT .  to  Everyone : ok
+13:24:33 From  WONG JOON KIAT .  to  Everyone : ok thanks prof!
+13:24:35 From  WONG JOON KIAT .  to  Everyone : yes
+13:25:31 From  LEOW YONG ZHENG .  to  Everyone : static on function means that you call that function by referencing a class, not by referencing an instance
+13:28:33 From  Suhaimi -  to  Everyone : the less I know the better
+13:43:53 From  KHO WEN JIE .  to  Everyone : for Weight and Height, having public or not doesn't matter?
+13:44:24 From  KHO WEN JIE .  to  Everyone : ohh by default public
+13:46:56 From  PHUA DE XUAN, PERCY .  to  Everyone : no modifier is not the same as public
+13:49:11 From  WONG JOON KIAT .  to  Everyone : because its static right? That's why the value is changed from 1 to 10?
+13:49:25 From  Hang Gou  to  Everyone : private = only can be moderate called by function inside the class
+13:49:29 From  CHONG WEI WEN REUBEN  to  Everyone : make a public function
+13:49:29 From  ALARIC TANG MING KUN .  to  Everyone : is private
+13:49:33 From  WONG JOON KIAT .  to  Everyone : oh ok, my apologies
+13:49:47 From  WONG JOON KIAT .  to  Everyone : thanks guys!
+13:49:51 From  WONG JOON KIAT .  to  Everyone : and prof*
+13:51:13 From  ALARIC TANG MING KUN .  to  Everyone : displayhr
+14:01:03 From  ALARIC TANG MING KUN .  to  Everyone : Constructors will be automatically recognized if u put the same name as the class?
+14:01:47 From  ALARIC TANG MING KUN .  to  Everyone : ok thanks prof
+14:06:22 From  ONG ZE QUAN .  to  Everyone : Basically constructors allow overloading
+14:07:13 From  Hang Gou  to  Everyone : the latest constructor will be the final value ?
+14:07:28 From  Hang Gou  to  Everyone : for overloading
+14:08:12 From  TAN JUN KAI, CALVIN .  to  Everyone : both constructors are valid, and will execute depending on what parameters you pass in when you create a new object instance
+14:08:18 From  ALARIC TANG MING KUN .  to  Everyone : what if I put 2 parametrized constructors?
+14:08:25 From  LEOW YONG ZHENG .  to  Everyone : the constructors do not take effect until you call them. You can use any defined constructor, Java will automatically select the one that matches the parameters used
+14:14:34 From  TAN JUN KAI, CALVIN .  to  Everyone : prof, would the square constructor work seeing as it has the same number of params as the constructor for the circle?
+14:14:44 From  TAN JUN KAI, CALVIN .  to  Everyone : ah
+14:14:49 From  TAN JUN KAI, CALVIN .  to  Everyone : okay
+14:16:01 From  LEOW YONG ZHENG .  to  Everyone : isn't int implicitly castable into double?
+14:16:10 From  LEOW YONG ZHENG .  to  Everyone : nvm
+14:28:33 From  ALARIC TANG MING KUN .  to  Everyone : clear prof
+14:28:34 From  NIKOS WEE YI ZHONG .  to  Everyone : if we use the this for inclass and tobj for outclass will the output be the same pro?
+14:28:45 From  NIKOS WEE YI ZHONG .  to  Everyone : prf*
+14:29:28 From  NIKOS WEE YI ZHONG .  to  Everyone : oh ok thank you
+14:30:40 From  Ng Swee Kiat  to  Everyone : room number missing a 1
+14:30:44 From  Leong Shao Zhi  to  Everyone : roomnumber
+14:30:46 From  Leong Shao Zhi  to  Everyone : missing a 1
+14:30:46 From  Ren Jiaqi  to  Everyone : did you mean '2021ICT1009' instead of '2021ICT009'?
+14:30:47 From  Suhaimi -  to  Everyone : 1009
+14:30:48 From  LIM ZHAO XIANG .  to  Everyone : The room number on the slide is missing an 1 after the ICT
+14:30:52 From  ALOYSIUS CHONG JUN FENG .  to  Everyone : the room number is wrong
+14:30:54 From  LEOW YONG ZHENG .  to  Everyone : you wrote 009 instead of 1009
+14:31:25 From  Nisha Jain  to  Everyone : 2021ICT1009
+14:32:56 From  NG ZHENG HAN .  to  Everyone : This quiz is not graded right? just to test our understanding right?
+14:33:08 From  ALARIC TANG MING KUN .  to  Everyone : We answer one qn at at time?
+14:33:09 From  KHO WEN JIE .  to  Everyone : later got leaderboard top 10 get 1%
+14:33:11 From  ADAM LOH ITT HARP .  to  Everyone : siaoliao
+14:33:11 From  WONG JOON KIAT .  to  Everyone : thank goodness.. quite stressful...
+14:33:13 From  NG ZHENG HAN .  to  Everyone : ok thanks prof haha
+14:33:15 From  HUN YEW KWANG, BRIAN .  to  Everyone : ptsd
+14:33:19 From  Koh Jia Cheng  to  Everyone : ah shit, here we go again
+14:33:32 From  CHONG WEI WEN REUBEN  to  Everyone : will the class tests be this 'hard'
+14:33:35 From  DYLAN MICHAEL OGLE .  to  Everyone : worth "bonus" percentage
+14:34:23 From  CHONG WEI BING NICHOLAS  to  Everyone : @reuben i hoe the class tests will be this 'hard'
+14:34:27 From  CHONG WEI BING NICHOLAS  to  Everyone : hope
+14:34:31 From  WONG JOON KIAT .  to  Everyone : if only theres marks for trying haha
+14:36:42 From  WONG JOON KIAT .  to  Everyone : meaning of parameterized?
+14:36:52 From  LEOW YONG ZHENG .  to  Everyone : has parameters
+14:36:54 From  KHO WEN JIE .  to  Everyone : I actually lost... forgot what was the choices
+14:36:57 From  WONG JOON KIAT .  to  Everyone : ok
+14:37:46 From  WONG JOON KIAT .  to  Everyone : example of parameters in constructors?
+14:38:15 From  CHONG WEI WEN REUBEN  to  Everyone : void (x,y) function static final{}
+14:38:34 From  CHONG WEI BING NICHOLAS  to  Everyone : ^
+14:38:42 From  WONG JOON KIAT .  to  Everyone : ok noted!
+14:38:51 From  CHONG WEI WEN REUBEN  to  Everyone : whats the meaning of noted
+14:38:57 From  LEOW YONG ZHENG .  to  Everyone : lol
+14:39:05 From  WONG JOON KIAT .  to  Everyone : will take note*
+14:39:15 From  CHONG WEI WEN REUBEN  to  Everyone : oh
+14:39:16 From  CHONG WEI WEN REUBEN  to  Everyone : ok thanks prof!
+14:40:17 From  TAN YI SHENG .  to  Everyone : prof next time do such quiz on kahoot then can see the options when submitted
+14:40:36 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : is it 1,1,1?
+14:41:32 From  WONG JOON KIAT .  to  Everyone : I chose a diff answer
+14:41:53 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : ooh
+14:42:02 From  WONG JOON KIAT .  to  Everyone : think not correct uh
+14:42:13 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : we shall find out soon
+14:42:22 From  WONG JOON KIAT .  to  Everyone : oh nice..
+14:42:22 From  Hang Gou  to  Everyone : different object right?
+14:42:35 From  KHO WEN JIE .  to  Everyone : yes becuz its diff object
+14:42:47 From  WONG JOON KIAT .  to  Everyone : what about diff objects?
+14:42:49 From  KHO WEN JIE .  to  Everyone : i think? XD
+14:42:49 From  ALARIC TANG MING KUN .  to  Everyone : does count++ and ++count matter?
+14:43:06 From  LEOW YONG ZHENG .  to  Everyone : in this case, no, because we aren't passing count to anything
+14:43:08 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : ++count can run?
+14:43:08 From  TAN JUN KAI, CALVIN .  to  Everyone : in this case no
+14:43:28 From  ALARIC TANG MING KUN .  to  Everyone : i see thanks guys :)
+14:43:41 From  WONG JOON KIAT .  to  Everyone : so the var in each object will be incremental?
+14:43:54 From  TAN YI SHENG .  to  Everyone : yes ++count exist
+14:43:59 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : thx
+14:44:07 From  LEOW YONG ZHENG .  to  Everyone : yeah its not static, so every object has its own separate copy of the integer
+14:44:20 From  WONG JOON KIAT .  to  Everyone : ok
+14:44:43 From  LEOW YONG ZHENG .  to  Everyone : plus its not private, so referencing .count outside won't cause a compilation error
+14:45:09 From  TAN YI SHENG .  to  Everyone : @raheem https://stackoverflow.com/questions/21186950/count-and-count-when-to-use-which/21186994
+14:45:20 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : eh man thx so much
+14:45:21 From  WONG JOON KIAT .  to  Everyone : "this" is to represent current/present class? Am I right?
+14:45:40 From  WONG JOON KIAT .  to  Everyone : ok thanks prof!
+14:45:47 From  EDDIE TAN DEJUN .  to  Everyone : prof can post this quiz again after lecture for us to practice again?
+14:45:47 From  TAN CI EN, ANNE .  to  Everyone : so the answer is "this" right?
+14:45:56 From  TAN CI EN, ANNE .  to  Everyone : ah thanks
+14:46:17 From  WONG JOON KIAT .  to  Everyone : ya
+14:46:47 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : garbage I think?
+14:47:10 From  LEOW YONG ZHENG .  to  Everyone : "value i used before initialization"
+14:47:14 From  Leong Shao Zhi  to  Everyone : compile value?
+14:47:15 From  LEOW YONG ZHENG .  to  Everyone : or something like that
+14:47:32 From  LEOW YONG ZHENG .  to  Everyone : ah
+14:47:58 From  Leong Shao Zhi  to  Everyone : pose and stand :thinking:
+14:48:00 From  Leong Shao Zhi  to  Everyone : jojo
+14:48:27 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : is it B
+14:49:12 From  KHO WEN JIE .  to  Everyone : isit E
+14:50:00 From  KHO WEN JIE .  to  Everyone : answer is 2 lines?Stand and sit?
+14:50:04 From  ALARIC TANG MING KUN .  to  Everyone : Yes
+14:50:08 From  ALARIC TANG MING KUN .  to  Everyone : cos println
+14:50:16 From  KHO WEN JIE .  to  Everyone : if we have constructor defined, we don't need the "Pose" myPose, the Pose part?
+14:50:16 From  ALARIC TANG MING KUN .  to  Everyone : are 2 ojects written
+14:50:46 From  Donovan Cham  to  Everyone : 1 object 2 initialization?
+14:50:58 From  ALARIC TANG MING KUN .  to  Everyone : ok thanks prof
+14:51:03 From  KHO WEN JIE .  to  Everyone : oohhhh
+14:51:16 From  P.Udaiya Chandran  to  Everyone : then the + name?
+14:51:23 From  P.Udaiya Chandran  to  Everyone : whr the name come from
+14:51:30 From  LEOW YONG ZHENG .  to  Everyone : you passed it
+14:51:33 From  LEOW YONG ZHENG .  to  Everyone : its in the parameter
+14:51:37 From  Leong Shao Zhi  to  Everyone : pose(name)
+14:51:41 From  Leong Shao Zhi  to  Everyone : youre calling it aren't you
+14:52:02 From  P.Udaiya Chandran  to  Everyone : oh thanks thanks
+14:52:27 From  KOH HUAN YIN .  to  Everyone : can we have the questions of the quiz to practice on our own, prof?
+14:52:46 From  Muhammad Abdurraheem Bin Abdul Hamid  to  Everyone : ^
+14:53:33 From  EDDIE TAN DEJUN .  to  Everyone : ^
+14:54:00 From  KHO WEN JIE .  to  Everyone : just now the last qns,the 2nd myPose, did it had New keyword?
+14:54:06 From  ALARIC TANG MING KUN .  to  Everyone : Yes
+14:54:06 From  LEOW YONG ZHENG .  to  Everyone : both have
+14:54:07 From  ALARIC TANG MING KUN .  to  Everyone : hv
+14:54:20 From  ALARIC TANG MING KUN .  to  Everyone : so this is a reference type right myPose
+14:56:54 From  KHO WEN JIE .  to  Everyone : so now C1 shares the same object address? or just the content same
+14:57:00 From  Suhaimi -  to  Everyone : Is there any way to refer to the old c1 object if we reassigned the c1 pointer
+14:57:11 From  KHO WEN JIE .  to  Everyone : :o
